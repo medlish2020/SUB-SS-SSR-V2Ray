@@ -29,9 +29,16 @@ def merge(file1, file2,file3):
         for i in f2:
             f3.write(i)
 
-merge("url_ss_ssr.txt", "url_v2ray.txt","url_all.txt")
+#merge("url_ss_ssr.txt", "url_v2ray.txt","url_all.txt")
     
 #生成指定文件名的base64文件
 base64file_all="base64_all.txt"
 links_file="url_all.txt"
 ToBase64(links_file,base64file_all)
+
+if os.path.exists(links_file):
+    if os.path.exists(links_file+'.bak'):
+       os.remove(links_file+'.bak')
+    os.rename(links_file,links_file+'.bak')
+merge("url_ss_ssr.txt", "url_v2ray.txt","url_all.txt")
+
