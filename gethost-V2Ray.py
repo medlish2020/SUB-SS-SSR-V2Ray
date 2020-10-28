@@ -27,8 +27,6 @@ def ToFile(txt, file):
 #ToBase64("./desk.jpg",'desk_base64.txt')  # 文件转换为base64
 #ToFile("./desk_base64.txt",'desk_cp_by_base64.jpg')  # base64编码转换为二进制文件
 
-
-
 t=0
 count = len(open('host-V2Ray.txt','r',encoding='UTF-8', errors='ignore').readlines())
 # f = open('../gui-config.json','w')

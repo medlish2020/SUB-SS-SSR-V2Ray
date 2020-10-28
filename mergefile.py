@@ -12,7 +12,6 @@ def ToBase64(file, txt):
         fout.write(base64_data.decode())
         fout.close()
 
-
 def ToFile(txt, file):
     with open(txt, 'r') as fileObj:
         base64_data = fileObj.read()
@@ -24,11 +23,9 @@ def ToFile(txt, file):
 def merge(file1, file2,file3):
     f3 = open(file3, 'w', encoding='utf-8')
     with open(file1, 'r', encoding='utf-8') as f1:
-#        f3.write('\n')
         for i in f1:
             f3.write(i)
     with open(file2, 'r', encoding='utf-8') as f2:
-#        f3.write('\n')
         for i in f2:
             f3.write(i)
 

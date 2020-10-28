@@ -5,7 +5,6 @@ from qqwry import QQwry
 q = QQwry()
 q.load_file('qqwry.dat')
 
-
 t=0
 t_ss=1
 t_ssr=1
@@ -87,9 +86,7 @@ try:
             lineStr=lineStr+'    },\n'
         f.write(lineStr)
 finally:
-
     f2 = open('tail-SS.txt','r',encoding='UTF-8', errors='ignore')
-    
     lines = f2.readlines()
     for line3 in lines:
         f.write(line3)
