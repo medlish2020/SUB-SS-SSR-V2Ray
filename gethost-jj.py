@@ -21,7 +21,7 @@ def ToFile(txt, file):
         fout.close()
 
 #url = 'https://jj-rss-01.best/link/b20Dbb0Wr708bRkU'
-url='https://jj-rss-01.best/link/hdgQoZAinkcQIqeD?sub=1
+url='https://jj-rss-01.best/link/hdgQoZAinkcQIqeD?sub=1'
 
 links_file='url_jj.txt'
 base64_file='base64_jj.txt'
