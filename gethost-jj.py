@@ -12,7 +12,6 @@ def ToBase64(file, txt):
         fout.write(base64_data.decode())
         fout.close()
 
-
 def ToFile(txt, file):
     with open(txt, 'r') as fileObj:
         base64_data = fileObj.read()
@@ -20,8 +19,6 @@ def ToFile(txt, file):
         fout = open(file, 'wb')
         fout.write(ori_image_data)
         fout.close()
-
-
 
 #url = 'https://jj-rss-01.best/link/CR0fY9iH5GntsUxi?sub=1'
 #url = 'https://jj-rss-01.best/link_diy/PeHDxttH7wt3vDKe?t=1'

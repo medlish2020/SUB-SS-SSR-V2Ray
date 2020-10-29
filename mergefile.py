@@ -41,4 +41,3 @@ if os.path.exists(links_file):
        os.remove(links_file+'.bak')
     os.rename(links_file,links_file+'.bak')
 merge("url_ss_ssr.txt", "url_v2ray.txt","url_all.txt")
-

@@ -337,18 +337,12 @@ def main_dev():
     print(args)
     print('*** Working on ... ', json_files, uri_files, link_ss)
 
-
-
-
-
 def main():
     global json_files
     global uri_files
     global link_ss
     
     main_dev()
-
-
 
     if link_ss:
         for i in link_ss:
@@ -369,7 +363,6 @@ def main():
             links.extend(read_links_file(j))
 
     func_1st(configs, links)
-
 
 if __name__ == '__main__':
     main()

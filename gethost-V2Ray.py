@@ -15,7 +15,6 @@ def ToBase64(file, txt):
         fout.write(base64_data.decode())
         fout.close()
 
-
 def ToFile(txt, file):
     with open(txt, 'r') as fileObj:
         base64_data = fileObj.read()
