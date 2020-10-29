@@ -16,14 +16,14 @@ msg["From"]=_user
 msg["To"]=_to
  
 links_file=['url_ss_ssr.txt','url_v2ray.txt','url_all.txt','url_jj.txt','base64_ss_ssr.txt','base64_v2ray.txt','base64_all.txt','base64_jj.txt']
-links_url=['https://zhuwei.netlify.com/base64_ss_ssr.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_ss_ssr.txt','https://zhuwei.netlify.com/base64_v2ray.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_v2ray.txt','https://zhuwei.netlify.com/base64_all.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_all.txt','https://zhuwei.netlify.com/base64_jj.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_jj.txt']
+links_url=['免费SS-SSR订阅：\nhttps://zhuwei.netlify.com/base64_ss_ssr.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_ss_ssr.txt\n\n','免费V2Ray订阅：\nhttps://zhuwei.netlify.com/base64_v2ray.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_v2ray.txt','所有免费订阅：\nhttps://zhuwei.netlify.com/base64_all.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_all.txt','几鸡订阅：\nhttps://zhuwei.netlify.com/base64_jj.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_jj.txt']
 
 
 #---文字部分---
 url=''
 for value in links_url:
     url=url+value+"\n"
-part=MIMEText('订阅地址：\n'+url)
+part=MIMEText(url)
 msg.attach(part)
  
 #---附件部分---
