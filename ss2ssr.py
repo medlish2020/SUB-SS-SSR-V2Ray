@@ -1,5 +1,7 @@
 #! /usr/bin/env python3
 
+configfilepath='configfile/'
+
 __author__ = 'JZ'
 __webpage__ = 'https://github.com/Justsoos'
 
@@ -276,7 +278,7 @@ def func_1st(configs, links):
     if links_result:
         #Modify by zhuwei
         #links_file = 'Url_SS_SSR_links_{}.txt'.format(time.strftime('%Y-%m-%d_%H-%M-%S'))
-        links_file='url_ss_ssr.txt'
+        links_file=configfilepath+'url_ss_ssr.txt'
         if os.path.exists(links_file):
             if os.path.exists(links_file+'.bak'):
                 os.remove(links_file+'.bak')
@@ -291,7 +293,7 @@ def func_1st(configs, links):
 
 #        ToBase64(links_file,'Base64_'+links_file)
         #生成指定文件名的base64文件
-        base64file_ss_ssr='base64_ss_ssr.txt'
+        base64file_ss_ssr=configfilepath+'base64_ss_ssr.txt'
         ToBase64(links_file,base64file_ss_ssr)
                
 def main_dev():

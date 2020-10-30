@@ -4,6 +4,8 @@ import base64
 import chardet
 import sys,os
 
+configfilepath='configfile/'
+
 def ToBase64(file, txt):
     with open(file, 'rb') as fileObj:
         image_data = fileObj.read()
@@ -23,8 +25,8 @@ def ToFile(txt, file):
 #url = 'https://jj-rss-01.best/link/b20Dbb0Wr708bRkU'
 url='https://jj-rss-01.best/link/hdgQoZAinkcQIqeD?sub=1'
 
-links_file='url_jj.txt'
-base64_file='base64_jj.txt'
+links_file=configfilepath+'url_jj.txt'
+base64_file=configfilepath+'base64_jj.txt'
 
 r = requests.get(url, allow_redirects=True)  # to get content after redirection
 #print(chardet.detect(r.content))
@@ -35,7 +37,7 @@ if chardet.detect(base64.b64decode(r.content))['encoding']=='ascii':
     keys=['ss://','ssr://','vess://']
     for value in keys:
         if str_line[0].find(value)>=0:
-           with open('base64_jj.txt', 'wb') as f:
+           with open(base64_file, 'wb') as f:
                f.write(r.content)
                f.close
                print('\n几鸡订阅更新完成！\n')

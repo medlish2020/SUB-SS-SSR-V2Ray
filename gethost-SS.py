@@ -5,13 +5,15 @@ from qqwry import QQwry
 q = QQwry()
 q.load_file('qqwry.dat')
 
+configfilepath='configfile/'
+
 t=0
 t_ss=1
 t_ssr=1
-count = len(open('host-SS.txt','r',encoding='UTF-8', errors='ignore').readlines())
+count = len(open(configfilepath+'host-SS.txt','r',encoding='UTF-8', errors='ignore').readlines())
 # f = open('../gui-config.json','w')
 f = open('../../ShadowsocksR-win-4.9.2/gui-config.json','w',encoding='UTF-8', errors='ignore')
-file_object = open('host-SS.txt','r',encoding='UTF-8', errors='ignore')
+file_object = open(configfilepath+'host-SS.txt','r',encoding='UTF-8', errors='ignore')
 
 lineStr='{\n'
 # lineStr=lineStr+'  "version": "4.1.8.0",\n'
@@ -86,7 +88,7 @@ try:
             lineStr=lineStr+'    },\n'
         f.write(lineStr)
 finally:
-    f2 = open('tail-SS.txt','r',encoding='UTF-8', errors='ignore')
+    f2 = open(configfilepath+'tail-SS.txt','r',encoding='UTF-8', errors='ignore')
     lines = f2.readlines()
     for line3 in lines:
         f.write(line3)

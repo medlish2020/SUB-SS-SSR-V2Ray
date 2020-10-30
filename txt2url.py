@@ -1,8 +1,10 @@
 #!/usr/bin/python
 import base64
 
-f_url = open('Url_SS_SSR.txt','w',encoding='UTF-8', errors='ignore')
-f_txt = open('host-SS.txt','r',encoding='UTF-8', errors='ignore')
+configfilepath='configfile/'
+
+f_url = open(configfilepath+'Url_SS_SSR.txt','w',encoding='UTF-8', errors='ignore')
+f_txt = open(configfilepath+'host-SS.txt','r',encoding='UTF-8', errors='ignore')
 try: 
     for line in f_txt:
         line=line.strip('\n')

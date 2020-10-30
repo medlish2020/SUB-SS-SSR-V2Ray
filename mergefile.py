@@ -4,6 +4,8 @@ import time
 import sys,os
 import socket
 
+configfilepath='configfile/'
+
 def ToBase64(file, txt):
     with open(file, 'rb') as fileObj:
         image_data = fileObj.read()
@@ -32,12 +34,12 @@ def merge(file1, file2,file3):
 #merge("url_ss_ssr.txt", "url_v2ray.txt","url_all.txt")
     
 #生成指定文件名的base64文件
-base64file_all="base64_all.txt"
-links_file="url_all.txt"
+base64file_all=configfilepath+"base64_all.txt"
+links_file=configfilepath+"url_all.txt"
 
 if os.path.exists(links_file):
     if os.path.exists(links_file+'.bak'):
        os.remove(links_file+'.bak')
     os.rename(links_file,links_file+'.bak')
-merge("url_ss_ssr.txt", "url_v2ray.txt","url_all.txt")
+merge(configfilepath+"url_ss_ssr.txt", configfilepath+"url_v2ray.txt",configfilepath+"url_all.txt")
 ToBase64(links_file,base64file_all)

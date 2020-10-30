@@ -7,6 +7,8 @@ from qqwry import QQwry
 q = QQwry()
 q.load_file('qqwry.dat')
 
+configfilepath='configfile/'
+
 def ToBase64(file, txt):
     with open(file, 'rb') as fileObj:
         image_data = fileObj.read()
@@ -27,10 +29,10 @@ def ToFile(txt, file):
 #ToFile("./desk_base64.txt",'desk_cp_by_base64.jpg')  # base64编码转换为二进制文件
 
 t=0
-count = len(open('host-V2Ray.txt','r',encoding='UTF-8', errors='ignore').readlines())
+count = len(open(configfilepath+'host-V2Ray.txt','r',encoding='UTF-8', errors='ignore').readlines())
 # f = open('../gui-config.json','w')
 #f = open('Url_Vmess.txt','w',encoding='UTF-8', errors='ignore')
-file_object = open('host-V2Ray.txt','r',encoding='UTF-8', errors='ignore')
+file_object = open(configfilepath+'host-V2Ray.txt','r',encoding='UTF-8', errors='ignore')
 
 lineStr64=''
 try: 
@@ -86,7 +88,7 @@ try:
 finally:
 
     #添加自建服务器vmess链接至订阅文件
-    file_ownerurl = open('owner_url_v2ray.txt','r',encoding='UTF-8', errors='ignore')
+    file_ownerurl = open(configfilepath+'owner_url_v2ray.txt','r',encoding='UTF-8', errors='ignore')
     line_ownerurl = ''
     for line in file_ownerurl:
         line_ownerurl = line_ownerurl+line        
@@ -94,7 +96,7 @@ finally:
     #End
 
     #links_file = 'Url_Vmess_links_{}.txt'.format(time.strftime('%Y-%m-%d_%H-%M-%S'))
-    links_file='url_v2ray.txt'
+    links_file=configfilepath+'url_v2ray.txt'
     
     if os.path.exists(links_file):
         if os.path.exists(links_file+'.bak'):
@@ -107,7 +109,7 @@ finally:
     file_ownerurl.close()
     
     #生成指定文件名的base64文件
-    base64file_v2ray='base64_v2ray.txt'
+    base64file_v2ray=configfilepath+'base64_v2ray.txt'
     ToBase64(links_file,base64file_v2ray)
     
     print('\n免费V2Ray节点订阅更新完成！\n')
