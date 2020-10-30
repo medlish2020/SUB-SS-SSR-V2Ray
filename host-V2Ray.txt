@@ -19,12 +19,12 @@
 码	198.2.195.117	443	a2d4504e-e90a-4ace-a26d-ec57c2d894a5	ws	/footers	tls
 码	h4.coding996.com	443	e8f9f061-c481-4c4a-8e7a-68cd062c1bb9	ws	/v2ray	tls
 码	45.77.134.155	45949	30f5573e-0b24-4565-a606-048e510e441f	tcp		
-码	auto.freev2.top	43057	fba6aa6e-ecb9-4272-921b-1e7e1f5fae62	tcp	undefined	
 码	76.223.57.161	40203	a8497551-3407-3c9e-a126-7834101b5f6a	ws	/honda	
 码	154.84.1.219	443	44e08632-8dbf-4b70-a893-1b31ead60ade	ws	/footers	tls
 码	v2-14.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
 码	ah1.funyunyou.com	10003	82530289-f766-4274-89a5-8d45183c545c	ws	/	
 码	60.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
+码	v2-02.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
 码	chinahumanr.tk	443	54fde82e-1279-11eb-ae4d-56000305f7e6	ws	/neVuw2Yg/	tls
 码	51.89.98.83	443	ca2fb96a-4d01-4418-84bf-de66de70c8ab	ws	/footers	tls
 码	154.84.1.142	443	7aeba42d-2e90-422b-a345-c1bdc0362c69	ws	/footers	tls
@@ -98,6 +98,7 @@
 码	154.84.1.191	443	5ab81ce0-c5f4-4d17-87f2-0b9ee442eae0	ws	/footers	tls
 码	154.84.1.11	443	a0c5a96b-a0d9-4686-8eb8-b932051c79cd	ws	/footers	tls
 码	23.225.125.82	443	3786266d-788b-40b4-b795-f37ffcfdd95a	ws	/footers	tls
+码	chinahr.cf	443	cf7a817e-1a40-11eb-a10a-5600030aa63b	ws	/4wqJ5Gg8/	tls
 码	8.210.40.253	443	4325d8de-2e79-3ee3-a3a6-40301fd2835a	ws	/panel	tls
 码	192.74.234.99	443	f5eb96ec-c8e9-49e6-bc00-3eefbde2fbd4	ws	/footers	tls
 码	18.162.147.210	40086	8f47a763-f2d4-44cd-f67f-2f6beda5c902	ws	/dwn	
@@ -108,6 +109,7 @@
 码	51.91.223.25	443	29b4257d-d82f-4bba-8964-0c657bb645d1	ws	/footers	tls
 码	139.180.193.6	64810	3f32e1a9-09f5-482d-bb8b-9ac8211271ab	tcp		
 码	v2-16.ssrsub.one	443	47ac927c-36d2-4d42-9f50-34de635f32a5	ws	/	tls
+码	littlesur.ml	443	72275244-1a41-11eb-b3eb-5600030aa651	ws	/7NniUhIC/	tls
 码	154.84.1.220	443	81e548a6-5203-4230-8c99-34a26f14e779	ws	/footers	tls
 码	142.0.129.201	443	b1392b21-6230-4fa5-8445-96b3ccda1efc	ws	/footers	tls
 码	59.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
@@ -160,4 +162,4 @@
 码	twhi2.xnjkskdkdsop.tk	11002	f7944958-d14e-44ca-8d83-5e8704bb1a9d	ws	/v1	
 码	75.2.18.94	40201	a8497551-3407-3c9e-a126-7834101b5f6a	ws	/v2ray	
 码	198.2.195.113	443	a2d4504e-e90a-4ace-a26d-ec57c2d894a5	ws	/footers	tls
-码	78.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
+码	78.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws
