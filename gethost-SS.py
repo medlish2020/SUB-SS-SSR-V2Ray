@@ -3,7 +3,7 @@ import base64
 import socket
 from qqwry import QQwry
 q = QQwry()
-q.load_file('qqwry.dat')
+q.load_file('qqwry/qqwry.dat')
 
 configfilepath='configfile/'
 
