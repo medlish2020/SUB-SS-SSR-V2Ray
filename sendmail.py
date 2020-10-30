@@ -18,7 +18,7 @@ msg["To"]=_to
 configfilepath='configfile/'
  
 links_file=[configfilepath+'url_ss_ssr.txt',configfilepath+'url_v2ray.txt',configfilepath+'url_all.txt',configfilepath+'url_jj.txt',configfilepath+'base64_ss_ssr.txt',configfilepath+'base64_v2ray.txt',configfilepath+'base64_all.txt',configfilepath+'base64_jj.txt']
-links_url=['免费SS-SSR订阅：\nhttps://zhuwei.netlify.com/base64_ss_ssr.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_ss_ssr.txt\n','免费V2Ray订阅：\nhttps://zhuwei.netlify.com/base64_v2ray.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_v2ray.txt\n','所有免费订阅：\nhttps://zhuwei.netlify.com/base64_all.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_all.txt\n','几鸡订阅：\nhttps://zhuwei.netlify.com/base64_jj.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_jj.txt']
+links_url=['免费SS-SSR订阅：\nhttps://zhuwei.netlify.com/'+configfilepath+'base64_ss_ssr.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/'+configfilepath+'base64_ss_ssr.txt\n','免费V2Ray订阅：\nhttps://zhuwei.netlify.com/'+configfilepath+'base64_v2ray.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/'+configfilepath+'base64_v2ray.txt\n','所有免费订阅：\nhttps://zhuwei.netlify.com/'+configfilepath+'base64_all.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/'+configfilepath+'base64_all.txt\n','几鸡订阅：\nhttps://zhuwei.netlify.com/'+configfilepath+'base64_jj.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/'+configfilepath+'base64_jj.txt']
 
 #---文字部分---
 url=''
