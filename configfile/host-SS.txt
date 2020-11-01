@@ -30,4 +30,4 @@
 码	45.33.88.190	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	46.17.46.101	14405	Cskw6d	rc4-md5	auth_aes128_md5	tls1.2_ticket_auth
 码	45.56.94.40	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
-码	91.220.203.58	16352	lncn.org 6ge
+码	91.220.203.58	16352	lncn.org 6ge	rc4	origin	plain
