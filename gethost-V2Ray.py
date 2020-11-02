@@ -92,7 +92,7 @@ finally:
     line_ownerurl = ''
     for line in file_ownerurl:
         line_ownerurl = line_ownerurl+line        
-    lineStr64 = lineStr64+line_ownerurl
+    lineStr64 = line_ownerurl+lineStr64
     #End
 
     #links_file = 'Url_Vmess_links_{}.txt'.format(time.strftime('%Y-%m-%d_%H-%M-%S'))
