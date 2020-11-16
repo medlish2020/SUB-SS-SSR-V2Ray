@@ -95,6 +95,10 @@ finally:
     lineStr64 = line_ownerurl+lineStr64
     #End
 
+    #转换自建服务器至base64格式
+    ToBase64(configfilepath+'owner_url_v2ray.txt',configfilepath+'base64_owner_url_v2ray.txt')
+    #End
+
     #links_file = 'Url_Vmess_links_{}.txt'.format(time.strftime('%Y-%m-%d_%H-%M-%S'))
     links_file=configfilepath+'url_v2ray.txt'
     
