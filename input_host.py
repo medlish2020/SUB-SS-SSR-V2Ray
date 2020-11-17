@@ -3,7 +3,7 @@ import sys
 
 configfilepath='configfile/'
 
-print('\n请粘贴SS及SSR账号内容，粘贴内容完毕后按回车后，按组合键ctrl+D保存提交内容:')
+print('\n请粘贴SS及SSR账号内容，粘贴内容完毕后按回车后，按组合键ctrl+D保存提交内容（不作修改可直接按组合键ctrl+D跳过）:')
 lines=sys.stdin.readlines()
 links_file=configfilepath+'host-SS.txt'
 if lines:
@@ -21,7 +21,7 @@ if lines:
 else:
     print('\n\033[1;31m 未提交SS及SSR账号内容，原SS及SSR账号内容未修改！\033[0m\n')
 
-print('请粘贴V2Ray账号内容，粘贴内容完毕后按回车后，按组合键ctrl+D保存提交内容:')
+print('请粘贴V2Ray账号内容，粘贴内容完毕后按回车后，按组合键ctrl+D保存提交内容（不作修改可直接按组合键ctrl+D跳过）:')
 lines=sys.stdin.readlines()
 links_file=configfilepath+'host-V2Ray.txt'
 if lines:
@@ -39,7 +39,7 @@ if lines:
 else:
     print('\n\033[1;31m 未提交V2Ray账号内容，原V2Ray账号内容未修改！\033[0m\n')
 
-print('请粘贴自建节点V2Ray账号内容，粘贴内容完毕后按回车后，按组合键ctrl+D保存提交内容:')
+print('请粘贴自建节点V2Ray账号内容，粘贴内容完毕后按回车后，按组合键ctrl+D保存提交内容（不作修改可直接按组合键ctrl+D跳过）:')
 lines=sys.stdin.readlines()
 links_file=configfilepath+'owner_url_v2ray.txt'
 if lines:
