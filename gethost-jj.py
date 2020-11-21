@@ -22,8 +22,11 @@ def ToFile(txt, file):
         fout.write(ori_image_data)
         fout.close()
 
-#url = 'https://jj-rss-01.best/link/b20Dbb0Wr708bRkU'
-url='https://jj-rss-01.best/link/hdgQoZAinkcQIqeD?sub=1'
+#SS SSR
+#url='https://jj-rss-01.best/link/hdgQoZAinkcQIqeD?sub=1'
+
+#V2ray
+url='https://jj-rss-01.best/link/hdgQoZAinkcQIqeD?sub=3'
 
 links_file=configfilepath+'url_jj.txt'
 base64_file=configfilepath+'base64_jj.txt'
