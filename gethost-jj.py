@@ -26,7 +26,7 @@ def ToFile(txt, file):
 #url='https://jj-rss-01.best/link/hdgQoZAinkcQIqeD?sub=1'
 
 #V2ray
-url='https://jj-rss-01.best/link/hdgQoZAinkcQIqeD?sub=3'
+url='https://jj-rss-01.best/link_diy/PeHDxttH7wt3vDKe?t=1'
 
 links_file=configfilepath+'url_jj.txt'
 base64_file=configfilepath+'base64_jj.txt'
