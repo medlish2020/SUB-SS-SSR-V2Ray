@@ -1,9 +1,7 @@
-码	v2-01.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
 码	v2-16.ssrsub.one	443	47ac927c-36d2-4d42-9f50-34de635f32a5	ws	/	tls
 码	154.84.1.78	443	4842ff94-b7f9-4e44-8680-3275c6318638	ws	/footers	tls
 码	75.2.95.84	80	af907170-d176-3f66-aeef-17f3d02f8d14	ws	/	
 码	76.223.29.246	54188	a66ef892-8d0b-3863-963a-6598a7aeb439	tcp		
-码	13.112.204.111	43570	0b699cab-b2b5-4a77-bbca-cd5265c3bf2e	ws	/dwn	
 码	13.88.216.159	40004	66b15c5b-2c7b-2aca-75a1-3fc601827ec2	ws	/qwe123321ewq	
 码	104.19.47.147	443	311e968c-038e-11eb-b700-512f35e39e11	ws	/H9SMty3O/	tls
 码	45.139.179.132	37717	cdd5d9f7-296d-469f-b4d4-f70089b39f10	ws		
@@ -15,8 +13,8 @@
 码	154.84.1.140	54671	2a7349d6-994a-434b-9589-c0020685e528	tcp		
 码	13.248.164.5	23336	40d245c7-138f-3a25-aa26-2bbcbf4a17af	ws	/v2ray/233yun.xyz	
 码	154.84.1.84	443	cb9337f7-3617-4591-a8c0-0bc173723e8e	ws	/footers	tls
-码	40.81.210.59	443	adbece96-40a8-3d29-a05f-fda5e696f67f	ws	/hls/cctv5phd.m3u8	
 码	202.81.237.172	80	1a685537-5fe5-3a48-b827-dc30b5ebbf86	ws	/	
+码	40.81.210.59	443	adbece96-40a8-3d29-a05f-fda5e696f67f	ws	/hls/cctv5phd.m3u8	
 码	az-sg-a.txwd.xyz	33333	a66ef892-8d0b-3863-963a-6598a7aeb439	ws	/mcwy-sg-a	
 码	45.77.21.27	59312	0ac7fc72-fdd9-4a2a-a696-fca92ce6b83d	tcp		
 码	45.10.1.164	443	7fb3caea-85cf-41c0-8a46-11b81e03b3a9	h2		tls
@@ -24,53 +22,51 @@
 码	bigsur.cf	443	f2f0b588-302a-11eb-a987-56000313e3d1	ws	/Ts0zohqJ/	tls
 码	13.88.216.159	40003	66b15c5b-2c7b-2aca-75a1-3fc601827ec2	ws	/qwe123321ewq	
 码	154.84.1.143	443	2886122d-02ab-4790-ac94-2bb32818a686	ws	/footers	tls
-码	auto.freev2.top	49410	68496e6a-df4c-4c43-8c54-7dc294f231d1	tcp	undefined	
+码	v2-05.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
 码	76.223.29.246	14588	a66ef892-8d0b-3863-963a-6598a7aeb439	tcp		
 码	75.2.112.123	8121	9aeb8c2a-70f6-4162-bae0-36ba63266f33	ws	/	
 码	139.180.193.193	48915	055fd380-e748-439d-8da7-a6eba1eb9403	tcp		
-码	45.153.170.154	2083	58fba001-ff24-4e24-c614-dde56a71a595	tcp		none
 码	13.67.65.222	33333	a66ef892-8d0b-3863-963a-6598a7aeb439	ws	/mcwy-sg-a	
-码	13.248.212.108	80	3867e0ea-d417-35de-b522-e9b246fc3939	ws	/pucloud	
 码	1.0.0.1	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
 码	23.225.178.213	443	6f467adb-e8d0-418d-8a57-d01731993268	ws	/footers	tls
-码	13.231.187.235	10622	81bd80a8-8cdc-4ca3-b263-12d5c21ee2b7	ws		
 码	120.232.43.152	30002	62525122-ad3d-3710-a6ae-4f155ecd8dae	ws	/v2ray	tls
+码	13.231.187.235	10622	81bd80a8-8cdc-4ca3-b263-12d5c21ee2b7	ws		
 码	210.65.11.195	233	40d245c7-138f-3a25-aa26-2bbcbf4a17af	ws	/v2ray/233yun.xyz	
 码	99.83.143.161	1010	d9ac9fef-6fb3-39fe-a2f2-9b682c60aca3	ws	acgku	tls
 码	67.21.68.252	20636	b61a0de4-0967-48a4-85bc-34ef067ea16c	ws		
 码	120.232.96.101	20092	cb200df8-5aaf-302d-838c-5e1bd2bc5ebd	ws	/v2ray	tls
-码	v2-09.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
 码	76.223.28.67	80	3867e0ea-d417-35de-b522-e9b246fc3939	ws	/pucloud	
-码	www.kernels.bid	443	05be0137-e0f4-40bf-6d06-aca3a4ad5b0c	ws	undefined	tls
+码	v2-09.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
+码	www.kernels.bid	443	1fb36594-1424-ac9f-4831-fc5b21bb31bc	ws	undefined	tls
 码	99.83.201.80	8122	5cf335d9-f783-4d95-89b2-898fec4b19f3	ws	/	
 码	13.248.175.218	80	af907170-d176-3f66-aeef-17f3d02f8d14	ws	/	
-码	154.84.1.253	443	57e24a59-8af7-4946-bb1f-c6af791ada9e	ws	/footers	tls
 码	91.245.227.135	6666	df1c069f-e97c-4580-adf2-e2b4186a5589	ws	/	
+码	154.84.1.253	443	57e24a59-8af7-4946-bb1f-c6af791ada9e	ws	/footers	tls
 码	154.84.1.180	443	0107fdcc-8d47-4b97-9330-3b3d9ab30046	ws	/footers	tls
 码	23.101.11.90	52346	03118e9a-cd12-3aef-b044-e02345e140f9	ws	/v2ray	
 码	52.194.248.249	13848	e3e3150b-ce47-489c-83f9-52a12d952aa5	ws	/dwn	
 码	23.225.125.86	443	8fb921c0-564d-4d5a-9b13-384c01820126	ws	/footers	tls
+码	v2-04.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
 码	76.223.62.3	80	d66b0ca7-748a-3c10-99c4-f596d30be944	ws	/	
 码	76.223.41.165	23322	40d245c7-138f-3a25-aa26-2bbcbf4a17af	ws	/v2ray/233yun.xyz	
 码	104.19.3.12	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
 码	154.84.1.144	443	c2d4db53-83b9-41ab-8b4a-74648635d38e	ws	/footers	tls
 码	76.223.41.165	23367	40d245c7-138f-3a25-aa26-2bbcbf4a17af	ws	/v2ray/233yun.xyz	
+码	auto.freev2.top	15827	d254a380-5a9b-4c1d-9666-826ca6b515dc	tcp	undefined	
 码	154.84.1.235	443	d15111f5-ad92-4175-a238-7266cf665786	ws	/footers	tls
-码	154.84.1.75	443	8ac091ac-cf62-4a09-903d-1b98109d86a5	ws	/footers	tls
 码	la001.usaxyz.xyz	443	2b2db318-6996-4f41-aa34-8d989727aafa	ws	/bd79c09/	tls
+码	154.84.1.75	443	8ac091ac-cf62-4a09-903d-1b98109d86a5	ws	/footers	tls
 码	158.247.211.253	65002	bd658612-fb06-42c8-be8e-3674122aa4c6	tcp	/	
 码	141.101.115.17	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
-码	v2-12.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
-码	42.236.82.6	10170	8696f38a-7e2b-4cac-ec20-ef9d8738624d	tcp		
 码	104.19.3.11	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
 码	23.225.57.203	443	7e3bc49c-7c05-424d-adba-6458c7e1f492	ws	/footers	tls
 码	v2-11.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
-码	99.83.201.80	8080	5cf335d9-f783-4d95-89b2-898fec4b19f3	ws	/	
 码	23.225.9.253	443	5fba5fed-b7a3-48cb-9951-52e0bc632d93	ws	/footers	tls
+码	99.83.201.80	8080	5cf335d9-f783-4d95-89b2-898fec4b19f3	ws	/	
 码	azhk1.ssrcloud.co	8083	5cf335d9-f783-4d95-89b2-898fec4b19f3	ws	/	
 码	23.225.178.210	443	6f467adb-e8d0-418d-8a57-d01731993268	ws	/footers	tls
-码	13.88.216.159	41003	66b15c5b-2c7b-2aca-75a1-3fc601827ec2	ws	/qwe123321ewq	
 码	v2-07.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
+码	13.88.216.159	41003	66b15c5b-2c7b-2aca-75a1-3fc601827ec2	ws	/qwe123321ewq	
 码	107.175.63.116	56176	217807c2-25ec-4b37-bd56-12d722a91f60	tcp		
 码	120.232.163.125	1109	131e8ff1-a423-3f1c-8acf-dafa5c2b393c	ws	/	
 码	172.247.0.230	443	66edfc1f-caee-4a27-8ed6-c4c637550392	ws	/footers	tls
@@ -79,34 +75,31 @@
 码	104.19.3.14	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
 码	104.19.3.15	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
 码	v2-08.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
-码	104.16.160.114	443	aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa	ws	404	tls
-码	104.233.240.249	443	16282caa-f501-45e9-a50e-e8d14f63296b	ws	/footers	tls
 码	58.32.10.88	20624	160028b4-7e0d-35e6-aa95-f677c3b148d9	ws	/5dyun	
 码	75.2.112.123	8122	5cf335d9-f783-4d95-89b2-898fec4b19f3	ws	/	
+码	v2-14.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
 码	40.65.134.91	233	40d245c7-138f-3a25-aa26-2bbcbf4a17af	ws	/v2ray/233yun.xyz	
 码	13.75.72.103	233	4f88683b-871f-4858-80ab-721d373adf52	ws	/	
-码	v2-10.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
 码	v2-06.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
-码	45.32.20.226	50991	3a7b3ec2-4843-423d-bf53-5aef7d625b92	tcp		
 码	154.84.1.236	443	0b2c5769-f81c-4471-a625-c44f6ffd730f	ws	/footers	tls
 码	v2-02.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
-码	www.kernels.bid	80	8b85df43-7b45-b4c2-e0db-de491eacb205	ws	undefined	none
+码	www.kernels.bid	80	4cc30a59-cc3e-c13a-ce84-aad0c8b9148b	ws	undefined	none
 码	a9fe607f5ba58ad7b.awsglobalaccelerator.com	8080	5cf335d9-f783-4d95-89b2-898fec4b19f3	ws	/	
 码	1.0.0.111	443	8c35bef3-d51f-41ab-ac87-7b053410495b	ws	/	tls
 码	v2-13.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
-码	v2us01.isxa.top	443	9cd00c86-50f1-406a-9f76-3f6a50133793	ws	/ray	tls
+码	v2us01.isxa.top	443	746d1ec0-2559-4bb3-ace8-84f260278f71	ws	/ray	tls
 码	xibun.cf	443	2139d006-302a-11eb-a507-56000313e3b2	ws	/GtEgY609/	tls
 码	aga-jp.v2ray8.art	55000	bbcad3ad-dc1c-3ae4-b667-32b82d5e1e58	ws	/404	
 码	209.141.52.187	35055	92903b27-a175-45af-95f4-d251ab2f33df	ws	/	
 码	littlesur.ml	443	b2e5f132-2d65-11eb-99d7-56000312ac7b	ws	/1o4h5Qkd/	tls
 码	chinahr.cf	443	b1057a18-2d65-11eb-a8c8-56000312ac62	ws	/NhUx3ym8/	tls
 码	40.83.72.221	8083	5cf335d9-f783-4d95-89b2-898fec4b19f3	ws	/	
+码	120.232.96.101	20091	cb200df8-5aaf-302d-838c-5e1bd2bc5ebd	ws	/v2ray	tls
 码	23.97.67.174	233	40d245c7-138f-3a25-aa26-2bbcbf4a17af	ws	/v2ray/233yun.xyz	
 码	76.223.81.118	80	af907170-d176-3f66-aeef-17f3d02f8d14	ws	/	
 码	154.84.1.8	443	cec93317-8bbf-4234-908a-f5504227fa81	ws	/footers	tls
 码	v2-15.ssrsub.one	443	28adbea8-7c0d-4074-815f-10de6574fb2a	ws		tls
+码	104.16.160.20	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
 码	58.247.165.209	30022	7d504454-a844-31cd-b62f-595b0af22593	ws	/zhs	tls
 码	13.248.160.113	8080	5cf335d9-f783-4d95-89b2-898fec4b19f3	ws	/	
-码	104.16.160.20	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
-码	99.83.201.80	8124	9aeb8c2a-70f6-4162-bae0-36ba63266f33	ws	/	
-码	104.19.89.42	443	55c2ed4b-3301-4f33-be60-46628ef77209	ws	/	tls
+码	99.83.201.80	8124	9aeb8c2a-70f6-4162-bae0-36ba63266f33	ws	/
