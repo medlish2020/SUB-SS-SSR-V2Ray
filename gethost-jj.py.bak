@@ -41,45 +41,15 @@ if chardet.detect(base64.b64decode(r.content))['encoding']=='ascii':
     for value in keys:
         if str_line[0].find(value)>=0:
            with open(base64_file, 'wb') as f:
-               line_ssr=base64.b64decode(r.content).decode()
-#               f.write(r.content)
-#               f.close
+               f.write(r.content)
+               f.close
                print('\n几鸡订阅更新完成！\n')
            
-#    ToFile(base64_file,links_file)
-else:
-    print('\n几鸡订阅地址不可用或尝试关闭代理后更新！\n')
-    
-#V2ray
-url='https://jj-rss-01.best/link/hdgQoZAinkcQIqeD?sub=3'
-
-r = requests.get(url, allow_redirects=True)  # to get content after redirection
-#print(chardet.detect(r.content))
-if chardet.detect(base64.b64decode(r.content))['encoding']=='ascii':
-#if chardet.detect(r.content)['encoding']=='ascii':
-    str_line=base64.b64decode(r.content).decode().split('\n')
-
-    keys=['ss://','ssr://','vess://']
-    for value in keys:
-        if str_line[0].find(value)>=0:
-           with open(base64_file, 'wb') as f:
-               line_v2rayr=base64.b64decode(r.content).decode()
-#               f.write(r.content)
-#               f.close
-               print('\n几鸡订阅更新完成！\n')
-
-#    ToFile(base64_file,links_file)
-else:
-    print('\n几鸡订阅地址不可用或尝试关闭代理后更新！\n')
-    
-link_all = line_ssr+line_v2rayr
-if link_all:
-#    print(link_all)
     if os.path.exists(links_file):
         if os.path.exists(links_file+'.bak'):
             os.remove(links_file+'.bak')
         os.rename(links_file,links_file+'.bak')
-    f_link=open(links_file, 'w')
-    f_link.write(link_all)
-    f_link.close
-    ToBase64(links_file,base64_file)
+
+    ToFile(base64_file,links_file)
+else:
+    print('\n几鸡订阅地址不可用或尝试关闭代理后更新！\n')
