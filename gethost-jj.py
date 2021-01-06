@@ -44,7 +44,7 @@ if chardet.detect(base64.b64decode(r.content))['encoding']=='ascii':
                line_ssr=base64.b64decode(r.content).decode()
 #               f.write(r.content)
 #               f.close
-               print('\n几鸡订阅更新完成！\n')
+               print('\n几鸡SSR节点订阅更新完成！\n')
            
 #    ToFile(base64_file,links_file)
 else:
@@ -66,7 +66,7 @@ if chardet.detect(base64.b64decode(r.content))['encoding']=='ascii':
                line_v2rayr=base64.b64decode(r.content).decode()
 #               f.write(r.content)
 #               f.close
-               print('\n几鸡订阅更新完成！\n')
+               print('\n几鸡V2ray订阅更新完成！\n')
 
 #    ToFile(base64_file,links_file)
 else:
