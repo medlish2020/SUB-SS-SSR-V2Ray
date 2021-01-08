@@ -4,6 +4,7 @@
 码	119.28.94.73	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
 码	104.19.0.0	2087	ed3a73de-8f76-433b-f9b7-8282f2ad1fce	ws	/	tls
 码	60.249.3.228	443	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/c27821f.fm.icloud.com:16708	tls
+码	3.34.98.55	80	f5a8b2fb-f749-3f7e-947a-86e91ffedd08	ws	/v2ray	undefined
 码	ff5c0fb.rc.gladns.com	443	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.icloud.com:30513	tls
 码	13.248.129.11	80	9e4d73c2-7102-3885-8a85-0ada1627bb3f	ws	/tudog	undefined
 码	125.46.40.166	106	bf8b5ba7-c3e8-3694-95b9-27a606055479	ws	/	undefined
