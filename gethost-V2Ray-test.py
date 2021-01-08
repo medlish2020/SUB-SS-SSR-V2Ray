@@ -106,7 +106,8 @@ try:
 #        print (lineStr)
         t=t+1
 except socket.gaierror:
-    print(data[1])
+        print(data[1])
+        pass
 finally:
 
     #添加自建服务器vmess链接至订阅文件
