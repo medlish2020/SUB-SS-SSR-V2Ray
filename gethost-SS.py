@@ -21,7 +21,7 @@ lineStr='{\n'
 # lineStr=lineStr+'  "version": "4.1.8.0",\n'
 lineStr=lineStr+'  "configs": [\n'
 f.write(lineStr)
-
+print('\n')         
 for line in file_object:
     try: 
         numofproxy_ss = str(t_ss).zfill(3)
