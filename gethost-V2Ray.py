@@ -42,6 +42,8 @@ t=0
 
 #查询失败域名计数器
 t_f = 0
+#查询失败域名
+server_f = ''
 count = len(open(configfilepath+'host-V2Ray.txt','r',encoding='UTF-8', errors='ignore').readlines())
 # f = open('../gui-config.json','w')
 #f = open('Url_Vmess.txt','w',encoding='UTF-8', errors='ignore')
@@ -111,6 +113,7 @@ for line in file_object:
     #socket.getaddrinfo如果查询出错不执行任何操作，直接跳到下一循环
     except socket.gaierror:
         t_f = t_f + 1
+        server_f = server_f+'['+data[1]+']'
         pass
 
 #添加自建服务器vmess链接至订阅文件
@@ -142,6 +145,8 @@ file_ownerurl.close()
 base64file_v2ray=configfilepath+'base64_v2ray.txt'    
 ToBase64(links_file,base64file_v2ray)    
     
-print('['+numofproxy+']个V2Ray节点处理完成！['+str(t_f)+']个V2Ray节点域名无法解析被忽略！', end='\r')         
+if not server_f:
+    server_f = 'None'
+print('['+numofproxy+']个V2Ray节点处理完成！['+str(t_f)+']个V2Ray节点域名无法解析被忽略！忽略服务器:'+server_f+'!', end='\r')         
 print('\n免费V2Ray节点订阅更新完成！\n')    
     

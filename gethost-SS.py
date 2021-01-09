@@ -12,6 +12,8 @@ t_ss=1
 t_ssr=1
 #域名查询失败计数器
 t_f = 0
+#查询失败域名
+server_f = ''
 count = len(open(configfilepath+'host-SS.txt','r',encoding='UTF-8', errors='ignore').readlines())
 # f = open('../gui-config.json','w')
 f = open('../../ShadowsocksR-win-4.9.2/gui-config.json','w',encoding='UTF-8', errors='ignore')
@@ -91,6 +93,7 @@ for line in file_object:
         f.write(lineStr)
     except socket.gaierror:
         t_f = t_f + 1
+        server_f = server_f+'['+server+']'
         pass
         
 f2 = open(configfilepath+'tail-SS.txt','r',encoding='UTF-8', errors='ignore')
@@ -100,5 +103,7 @@ for line3 in lines:
 file_object.close()
 f.close()
 f2.close()
-print('['+str(t)+']个V2Ray节点处理完成！['+str(t_f)+']个V2Ray节点域名无法解析被忽略！', end='\r')         
+if not server_f:
+    server_f = 'None'
+print('['+str(t)+']个SS_SSR节点处理完成！['+str(t_f)+']个SS_SSR节点域名无法解析被忽略！忽略服务器:'+server_f+'!', end='\r')         
 print('\n免费SS-SSR节点订阅更新完成！\n')
