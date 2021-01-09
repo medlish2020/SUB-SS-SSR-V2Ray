@@ -142,6 +142,5 @@ file_ownerurl.close()
 base64file_v2ray=configfilepath+'base64_v2ray.txt'    
 ToBase64(links_file,base64file_v2ray)    
     
-print('['+numofproxy+']个节点处理完成！['+str(t_f)+']个节点域名无法解析被忽略！', end='\r')         
 print('\n免费V2Ray节点订阅更新完成！\n')    
-    
+print('['+numofproxy+']个节点处理完成！['+str(t_f)+']个节点域名无法解析被忽略！', end='\r')         
