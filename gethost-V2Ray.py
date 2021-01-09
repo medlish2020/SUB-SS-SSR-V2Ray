@@ -48,6 +48,7 @@ count = len(open(configfilepath+'host-V2Ray.txt','r',encoding='UTF-8', errors='i
 file_object = open(configfilepath+'host-V2Ray.txt','r',encoding='UTF-8', errors='ignore')
 
 lineStr64=''
+print('\n')         
 for line in file_object:    
     try: 
         line=line.strip('\n')    
