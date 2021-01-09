@@ -57,7 +57,7 @@ for line in file_object:
         data=line.split('\t')    
             
         numofproxy = str(t+1).zfill(3)
-        print('正在处理第：['+numofproxy+']个节点', end='\r')         
+        print('正在处理第：['+numofproxy+']个V2ray节点', end='\r')         
             
         #判断地址是域名还是IP，如果是域名则解析成IP地址
         if isIP(data[1]):    

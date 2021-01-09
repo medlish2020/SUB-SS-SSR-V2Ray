@@ -27,7 +27,7 @@ print('\n')
 for line in file_object:
     try: 
         numofproxy_ss = str(t_ss).zfill(3)
-        print('正在处理第：['+str(t+1)+']个节点', end='\r')         
+        print('正在处理第：['+str(t+1)+']个SS_SSR节点', end='\r')         
         numofproxy_ssr = str(t_ssr).zfill(3)
         line=line.strip('\n')
         data=line.split('\t')
