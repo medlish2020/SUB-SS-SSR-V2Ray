@@ -12,7 +12,6 @@ def ToBase64(file, txt):
         base64_data = base64.b64encode(image_data)
         fout = open(txt, 'w')
         fout.write(base64_data.decode())
-        print(base64_data.decode())
         fout.close()
 
 def ToFile(txt, file):
