@@ -82,5 +82,9 @@ if link_all:
     f_link=open(links_file, 'w')
     f_link.write(link_all)
     f_link.close
-    ToBase64(links_file,base64_file)
+    #print(str(base64.b64encode(link_all.encode("utf-8")), "utf-8"))
+    base64f_link=open(base64_file, 'w')
+    base64f_link.write(str(base64.b64encode(link_all.encode("utf-8")), "utf-8"))
+    base64f_link.close
+    #ToBase64(links_file,base64_file)
     
