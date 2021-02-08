@@ -12,6 +12,7 @@ def ToBase64(file, txt):
         base64_data = base64.b64encode(image_data)
         fout = open(txt, 'w')
         fout.write(base64_data.decode())
+        print(base64_data.decode())
         fout.close()
 
 def ToFile(txt, file):
@@ -83,3 +84,4 @@ if link_all:
     f_link.write(link_all)
     f_link.close
     ToBase64(links_file,base64_file)
+    
