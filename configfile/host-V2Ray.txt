@@ -1,399 +1,222 @@
-码	119.28.94.73	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
+码	75.2.56.106	8080	9681ad89-5562-4fce-9a8f-275097940dfb	ws	/	undefined
+码	101.69.128.218	22655	aac47917-1fd9-358d-a219-f98d4e8d6c5a	ws	/hls/cctv5phd.m3u8	undefined
+码	122.190.3.24	443	da136559-eb65-3a74-b747-5866439e8c46	ws	/panel	tls
 码	45.129.3.127	8080	1285daf5-d0a5-4ef9-9181-229fc9680bd5	ws	/WebSocket	undefined
 码	60.249.3.228	443	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.icloud.com:30513	tls
-码	auto.freev2.top	16798	4a56b32b-6cd2-4c7e-a92f-f8b11eb24b8a	tcp	undefined	
-码	3.34.98.55	80	f5a8b2fb-f749-3f7e-947a-86e91ffedd08	ws	/v2ray	undefined
-码	120.236.197.201	3201	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
+码	dt.cn1cs.dnsairport.tk	29003	256cb565-9d2f-3a1f-8b07-4a40cc0822cf	ws	/tz	
+码	dt.hkaz.dnsairport.tk	29016	256cb565-9d2f-3a1f-8b07-4a40cc0822cf	ws	/tz	
+码	61.164.109.185	20006	d3b25e35-4fd4-46ae-bc90-dbfdf65fb439	ws	/	undefined
+码	211.43.15.86	153	6da5e16c-b408-37b8-83a7-c400cc9be7e0	ws	/api/v3/download.getFile	undefined
+码	hkt-imsbiz-02.kbservice.club	80	0f063704-5b50-3208-8b14-21c70c4ffa45	ws	/zh-tw/windows	
+码	112.25.91.31	80	98b5e76a-8b36-3089-b3da-33fbc1337186	ws	/v2ray/233yun.xyz	undefined
+码	91.134.238.186	443	a982160e-06dd-42ca-9621-b7127d3766c5	ws	/sshkit	tls
+码	101.32.189.40	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
+码	101.32.191.54	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
+码	dt.hkaz.dnsairport.tk	29019	256cb565-9d2f-3a1f-8b07-4a40cc0822cf	ws	/tz	
+码	122.190.3.22	80	a4238f2e-dc04-33f7-968e-ea2d4c95bef3	ws	/v2ray	undefined
+码	116.163.46.231	10087	9181099b-ce67-341a-bec4-9b16ed1a54df	tcp	/	undefined
+码	13.248.214.149	882	bd3eec12-8a0e-4734-950f-1559cfcbb4ca	ws	/	undefined
+码	45.88.179.199	60687	896a7331-2e47-4f1b-b688-1ceb1c4ae542	tcp		
+码	76.223.63.39	80	9e4d73c2-7102-3885-8a85-0ada1627bb3f	ws	/tudog	undefined
+码	212.95.137.248	443	3b553e7e-144b-3152-ad91-2007dd47e206	ws	/v2ray	tls
+码	119.147.134.192	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
+码	61.164.109.185	20005	d3b25e35-4fd4-46ae-bc90-dbfdf65fb439	ws	/	undefined
+码	149.129.62.192	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	v2us02.isxa.top	443	686923e9-cf01-4126-81a6-ecf38b2f4332	ws	/ray	tls
+码	192.74.250.164	443	55819483-6a4e-4a60-b394-b64e42109b99	ws	/footers	tls
+码	149.129.42.177	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	149.129.55.48	443	eb9d626c-2d6f-384e-ad8d-20dc02f6ecea	ws	/panel	tls
 码	ahvuxfq.oqnqrysa.com	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
 码	207.46.156.115	443	0c0e6bc8-e561-3b4e-9984-fed161064c88	ws	/v2ray	tls
-码	76.223.26.108	80	797cf2a2-6c2b-4e66-9fbf-b07ea045a150	ws	/	undefined
-码	ae1d11d510afcff87.awsglobalaccelerator.com	80	0ad03541-6a6c-4f01-abcd-71c522aaed8e	ws		
-码	tw001plz.myidcddns.com	18080	c6f2483e-a1d6-31df-b47e-a11b7d8a8027	ws	/v2ray	undefined
-码	13.248.149.97	80	797cf2a2-6c2b-4e66-9fbf-b07ea045a150	ws	/	undefined
-码	99.83.198.53	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
-码	hkt-003.liyun.edu.pl	64910	54039243-db93-34bf-9d6c-598db097247a	ws	/36071ppp	
-码	v2-07.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	47.112.23.90	153	6df93022-abb8-3407-a05b-275e0576bc59	ws	/api/v3/download.getFile	undefined
-码	1.0.0.1	443	c2ff297e-03ea-4d43-af32-7953a4fbb63c	ws	/1da41d7/	tls
-码	75.2.82.74	8080	ff28e4e2-70b6-4fd7-8100-d7f7c941afa6	ws	/	undefined
-码	hinet-154.ddns-only.xyz	37035	2866fdfe-308d-31e7-8608-b19d57b85bca	ws	/jdy	
-码	112.33.51.86	60005	a78b9dff-7e3f-334d-8998-a736990f169c	ws	/	undefined
-码	laxgongyi2.hjynode.com	443	d1c2396a-6bcc-3513-8db0-aff285dadb6b	ws	/v2ray	tls
-码	120.232.182.213	50007	cbe809c2-1b48-3990-89bb-40dcdd2713c8	ws	/videos	undefined
-码	c-us5.ooxc.cc	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
-码	www.kernels.bid	443	7ea9eac9-cd83-5765-b5b2-c003b4380e34	ws	undefined	tls
-码	104.27.178.160	443	011e3bc5-8d82-2efa-c844-05f9daae9a0d	ws	/sommvws	tls
-码	104.16.123.96	443	b3fa05fb-b1df-a5c9-ebbc-f6b9c1809b93	ws	/yzthvws	tls
-码	dt.cn1cs.dnsairport.tk	29001	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	112.33.51.86	60001	a78b9dff-7e3f-334d-8998-a736990f169c	ws	/	undefined
-码	www.baidu.com	443	d94cd0de-0dfb-3b90-b043-1789cb027e31	ws	/panel	tls
-码	104.18.6.138	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	162.247.5.95	443	dcdac836-2050-4ea2-87aa-d33aed61ac04	ws	/	tls
-码	v2-08.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	76.223.1.37	443	5453d090-7493-3791-8fc4-c941d397040d	ws	/mugua	undefined
-码	75.2.56.163	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
-码	8.210.155.121	443	eb9d626c-2d6f-384e-ad8d-20dc02f6ecea	ws	/panel	tls
-码	75.2.112.5	11011	cccf242d-5da6-41ac-9ea3-9f78e7bb8c58	ws	/downloads/wechat.setup.exe	undefined
-码	101.32.207.83	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	dt.cn1cs.dnsairport.tk	29011	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	142.4.126.131	443	c82b9fb2-fc4e-413b-b612-57f13255cf7c	ws	/footers	tls
-码	104.21.42.33	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	13.248.166.97	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
-码	13.209.50.167	80	39493d0a-902e-3d53-b9a2-c1efd1ff5358	ws	/pucloud	undefined
-码	104.21.58.11	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	120.232.43.54	26001	024f86c8-d68d-34c4-83ae-ff239fb1f011	ws	/v2ray	
-码	v2-14.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	158.247.209.122	443	995caa00-608f-11eb-9a29-5600032b40d9	ws	/waPTm07e/	tls
-码	104.16.181.15	443	b3fa05fb-b1df-a5c9-ebbc-f6b9c1809b93	ws	/yzthvws	tls
-码	guangdong04.vq1021.site	13079	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
-码	149.129.44.97	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	www.kernels.bid	80	dbff6390-a39e-15a0-4058-90ac75d8597c	ws	undefined	none
-码	v2-15.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	dt.cn1gz.dnsairport.tk	29007	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	azurekr1.0tk8a3a1q4t94dler.com	153	17e0b205-ba8c-32e4-aec7-34e175775444	ws	/api/v3/download.getFile	undefined
-码	gz.yaode.ga	10035	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	149.129.44.166	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	104.28.23.254	443	4f672ab6-25e3-49e8-951a-d87b1fa75467	ws	/ce04/	tls
-码	101.32.191.54	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	203.218.243.3	21236	a3429882-29b5-3e90-b8eb-77445322477d	ws	/07hgtds	
-码	ae9a9fb52ec507426.awsglobalaccelerator.com	153	4e7d1c4e-d670-3d13-8fe8-e46aa1406777	ws	/api/v3/download.getFile	undefined
-码	gz.yaode.ga	10011	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	61.164.109.185	20005	d3b25e35-4fd4-46ae-bc90-dbfdf65fb439	ws	/	undefined
-码	154.84.1.74	443	54704b97-b7ac-44ba-bf5d-1b35edfa3300	ws	/footers	tls
-码	v2us02.isxa.top	443	f0377cb3-11f5-4701-b3db-2730edaccd1a	ws	/ray	tls
-码	rntwo.laoban666.xyz	443	114f5786-a8a0-446a-a32f-446893480560	ws	/27353486f3a1d4f/	tls
-码	8.210.252.77	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	8.210.222.43	443	eb9d626c-2d6f-384e-ad8d-20dc02f6ecea	ws	/panel	tls
-码	104.168.213.193	29691	38c162ed-0332-4270-9467-54cce8b12b03	tcp		
-码	8.210.194.118	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	112.33.51.86	60017	a78b9dff-7e3f-334d-8998-a736990f169c	ws	/	undefined
-码	v2-10.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	cf2.cdnuk.xyz	80	45a9d469-3eaa-44d9-a4db-033ba3760e8a	ws	/	
-码	183.232.228.122	3306	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	149.129.49.211	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	54.180.102.132	80	39493d0a-902e-3d53-b9a2-c1efd1ff5358	ws	/pucloud	undefined
-码	w8cm40apsh2s19.q57idwx20sh5.xyz	443	9727a4f0-f224-4d4b-bef0-26eebbaf7048	ws	/ffede0649fe5d8d/	tls
-码	cdn2.free2222.xyz	443	3e7ee19e-647f-4fcf-b82c-552dcff26b42	ws	/ray	tls
-码	5.2.67.108	80	689cec36-addb-4f36-b8a1-5cc117cb1cbc	ws	/ray	
-码	llajv.rebldp.tech	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	guangdong05.ddns-only.xyz	13096	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
-码	104.17.179.112	443	173b3a17-9f2e-4118-b4d7-eafc1176ec21	ws	/	tls
-码	149.129.118.218	443	789e0acf-4fef-386d-8a54-ee60e46c5420	ws	/racernet	tls
-码	149.129.57.30	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	75.2.79.154	80	78e34624-1e2a-3d09-b3fd-d3a15d59b2dd	ws	/tudog	undefined
-码	104.225.156.153	22222	8da14630-909c-4e85-bb9a-31fd494907e8	ws	/	undefined
-码	85.117.234.201	80	e1d31a74-b090-45d5-b7f4-e6221ce05e09	ws	/	undefined
-码	104.21.19.155	443	f299184b-19e0-41a4-9b4b-65fa8f0e691c	ws	/jj	tls
-码	gz.yaode.ga	10009	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	154.84.1.224	443	c7aba2b6-2f7c-4b44-99e3-b083c7a105a7	ws	/footers	tls
-码	103.56.60.132	35007	3f7a588a-9695-45f5-b48a-c6fabfa2bddd	ws	/	undefined
-码	120.240.102.43	29006	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	v2-03.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	99.83.224.56	80	78e34624-1e2a-3d09-b3fd-d3a15d59b2dd	ws	/tudog	undefined
-码	cdnde.irteyz.today	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	185.22.154.54	8080	1285daf5-d0a5-4ef9-9181-229fc9680bd5	ws	/WebSocket	undefined
-码	45.89.229.87	443	738438a8-f8a9-4e19-ae96-77399e3024e6	ws	/cc025514ca9/	tls
-码	hnyd-01.freepbox.tk	20009	ccc3982e-d00d-37ee-ab30-c957c6b3db4e	ws	/v2ray	undefined
-码	149.129.57.224	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	dt.cn1gz.dnsairport.tk	29006	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	103.253.40.205	443	87ffc1fa-f03b-4c24-9e2f-06259c6a740f	tcp	/	
-码	122.192.189.41	40000	7c6f2348-0ebd-3a1f-a8a0-c3b5629c2e0b	ws	/	
-码	180.235.234.68	153	69a0704a-0f1d-34ee-978c-060fafaf4109	ws	/api/v3/download.getFile	undefined
-码	23.100.92.176	80	83c18473-68f5-4c6e-8f3b-728abd2f04df	ws	/	undefined
-码	54.180.159.77	80	39493d0a-902e-3d53-b9a2-c1efd1ff5358	ws	/pucloud	undefined
-码	guangdong04.vq1021.site	13193	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
-码	104.17.188.91	443	9595a2cc-3d22-11eb-92c7-6dbdb10e5bba	ws	/mlh8uLRD/	tls
-码	125.46.39.227	10088	9181099b-ce67-341a-bec4-9b16ed1a54df	tcp	/	undefined
-码	gz.yaode.ga	10020	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	tw004plz.myidcddns.com	18080	c6f2483e-a1d6-31df-b47e-a11b7d8a8027	ws	/v2ray	undefined
-码	gz.yaode.ga	10029	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	99.83.186.46	8080	ff28e4e2-70b6-4fd7-8100-d7f7c941afa6	ws	/	undefined
-码	75.2.95.71	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
-码	101.32.191.195	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	104.18.135.208	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	75.2.56.106	8080	9681ad89-5562-4fce-9a8f-275097940dfb	ws	/	undefined
-码	61.221.57.35	153	0b7ed047-bf54-34c2-9cde-23e54dff2fc0	ws	/api/v3/download.getFile	undefined
-码	gz.yaode.ga	10000	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	h4.coding996.com	443	27f1f913-b1cc-49fc-a777-d74727de9c1f	ws	/v2ray	tls
 码	218.255.181.227	80	e7b11eac-6165-4861-8167-aed23a7f5f2a	ws	/VideoCache	undefined
-码	a6d4d8671aea72d3a.awsglobalaccelerator.com	153	d846361e-fb7e-3760-b7ff-58c2807f7b8c	ws	/api/v3/download.getFile	undefined
+码	104.21.77.119	443	db14be3e-6abe-48e5-a553-b9e2cc7e7a3d	ws	/ray	tls
+码	la-dmit-mini011.xc188.net	443	aeca4a28-61b6-42e7-8efd-a3c58d6dd72f	ws	/clientarea	tls
+码	149.129.54.114	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	76.223.26.108	80	797cf2a2-6c2b-4e66-9fbf-b07ea045a150	ws	/	undefined
+码	103.56.60.132	35005	3f7a588a-9695-45f5-b48a-c6fabfa2bddd	ws	/	undefined
+码	122.192.218.31	10443	789e0acf-4fef-386d-8a54-ee60e46c5420	ws	/cu/xz1/in1	tls
+码	120.232.173.115	11558	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
+码	149.129.42.15	443	f6769679-3960-33d4-a91e-35a04bc190de	ws	/panel	tls
+码	tw001plz.myidcddns.com	18080	c6f2483e-a1d6-31df-b47e-a11b7d8a8027	ws	/v2ray	undefined
+码	154.17.3.44	52346	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
+码	sg1322.azzico.space	11558	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
+码	13.248.149.97	80	797cf2a2-6c2b-4e66-9fbf-b07ea045a150	ws	/	undefined
+码	45.134.145.172	8443	6aab8747-a2ac-313c-9430-8369a65f3f1f	ws	/v2ray	tls
+码	121.12.76.76	10029	ccc3982e-d00d-37ee-ab30-c957c6b3db4e	ws	/v2ray	undefined
+码	99.83.198.53	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
+码	xz-bgp01.iplc188.com	10011	aeca4a28-61b6-42e7-8efd-a3c58d6dd72f	tcp		
+码	104.168.213.193	29691	38c162ed-0332-4270-9467-54cce8b12b03	tcp		
+码	183.232.228.122	3202	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
+码	211.72.35.153	3306	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
+码	13.248.130.129	80	78e34624-1e2a-3d09-b3fd-d3a15d59b2dd	ws	/tudog	undefined
 码	bigsur.cf	443	7554f396-6932-11eb-ac57-560003302fca	ws	/S0EacgdC/	tls
 码	211.95.53.39	443	b8a66664-6d13-39d9-bd43-e3948e6b3979	ws	/mugua	tls
 码	113.207.102.23	80	82cf83ad-6854-3aa5-8cda-441af940a73f	ws	/v2ray	undefined
-码	162.159.210.102	443	65f11be5-ac71-4f0c-874b-d93c610c66ef	ws	/	tls
-码	gz.yaode.ga	10006	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
+码	dt.hkaz.dnsairport.tk	29013	256cb565-9d2f-3a1f-8b07-4a40cc0822cf	ws	/tz	
+码	76.223.1.37	80	78e34624-1e2a-3d09-b3fd-d3a15d59b2dd	ws	/tudog	undefined
+码	99.83.144.70	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
+码	104.19.6.151	443	ea050e57-3e6e-4939-a79a-3eda830c6024	ws	/	tls
 码	8.210.183.57	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
 码	101.69.128.185	30001	d3b25e35-4fd4-46ae-bc90-dbfdf65fb439	ws	/	undefined
-码	104.24.102.20	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	dt.cn1cs.dnsairport.tk	29010	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	167.88.48.100	80	689cec36-addb-4f36-b8a1-5cc117cb1cbc	ws	/ray	
-码	tw.kuli888.xyz	35358	ff12eebe-7f66-3064-b3d8-7610af1f6c5d	ws	/v2ray	
-码	13.125.205.112	80	39493d0a-902e-3d53-b9a2-c1efd1ff5358	ws	/pucloud	undefined
-码	172.67.153.224	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	170.106.105.141	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	gz.yaode.ga	10016	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	170.106.105.195	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	75.2.90.239	41024	c904349a-8a50-4479-e3e0-62f67732b4ff	ws	/admin	undefined
-码	172.67.199.187	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	104.16.160.114	443	b3fa05fb-b1df-a5c9-ebbc-f6b9c1809b93	ws	/yzthvws	tls
-码	free.yangxifang.tk	443	5a2de888-4686-4b11-af2c-d98a5115188e	ws	/	tls
-码	99.83.220.43	443	5453d090-7493-3791-8fc4-c941d397040d	ws	/mugua	undefined
-码	99.83.171.16	10000	3b553e7e-144b-3152-ad91-2007dd47e206	ws	/v2ray	undefined
-码	sibyl-system.xyz	20000	0724b9cd-aaec-401a-b030-8a244baab5d5	ws	/	tls
-码	185.237.99.105	153	6a29b9a0-46b1-3469-8c7a-a1adc8f2f07f	ws	/api/v3/download.getFile	undefined
-码	103.56.60.132	35009	3f7a588a-9695-45f5-b48a-c6fabfa2bddd	ws	/	undefined
-码	r.199301.xyz	443	9a198e1e-b67a-42a7-86a2-7d91d037bc5e	ws	/bda87216fa0a/	tls
-码	45.154.197.60	20080	fff0afdb-458e-44e9-808a-c71853813e55	tcp	/	undefined
-码	13.248.162.102	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	
-码	104.27.146.212	443	ab386769-2a0b-e32a-0b5b-37aba3afae03	ws	/rvrl	tls
-码	azurehk2.0tk8a3a1q4t94dler.com	153	9f84c3f0-b97c-3d1c-966f-3811efd5a0e4	ws	/api/v3/download.getFile	undefined
-码	149.129.37.205	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	172.67.219.122	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	104.19.26.159	443	d4d6311f-25d9-40e4-b2cc-0d20baf40f0b	ws	/sdsd2	tls
-码	154.84.1.78	443	4842ff94-b7f9-4e44-8680-3275c6318638	ws	/footers	tls
-码	112.25.91.31	80	98b5e76a-8b36-3089-b3da-33fbc1337186	ws	/v2ray/233yun.xyz	undefined
-码	66.98.125.164	40001	98a4598a-2d74-4f03-9b0b-21c7a7d0b592	ws	/	undefined
-码	51.79.177.43	21902	689cec36-addb-4f36-b8a1-5cc117cb1cbc	ws	/ray	
-码	212.95.137.248	443	3b553e7e-144b-3152-ad91-2007dd47e206	ws	/v2ray	tls
-码	119.147.134.192	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	75.2.74.158	443	5453d090-7493-3791-8fc4-c941d397040d	ws	/mugua	undefined
-码	v2-16.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	104.17.46.56	443	9595a2cc-3d22-11eb-92c7-6dbdb10e5bba	ws	/mlh8uLRD/	tls
-码	121.12.76.76	10029	ccc3982e-d00d-37ee-ab30-c957c6b3db4e	ws	/v2ray	undefined
-码	8.210.186.37	443	eb9d626c-2d6f-384e-ad8d-20dc02f6ecea	ws	/panel	tls
-码	v2-11.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	125.46.40.166	107	39493d0a-902e-3d53-b9a2-c1efd1ff5358	ws	/	undefined
-码	76.223.70.38	8080	bbedfdf4-468c-458f-84ce-6c55640c4a2d	ws	/	undefined
-码	211.72.35.153	80	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/c27821f.fm.icloud.com:16708	undefined
-码	v2-05.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	183.232.228.122	3205	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	gz.yaode.ga	10027	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	101.32.243.73	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	99.83.159.198	153	d49562d0-b5ca-383a-b8f1-d031194ec1b0	ws	/api/v3/download.getFile	undefined
-码	xey.wrxjys.tech	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	23.225.9.250	443	5fba5fed-b7a3-48cb-9951-52e0bc632d93	ws	/footers	tls
-码	99.83.171.16	10001	3b553e7e-144b-3152-ad91-2007dd47e206	ws	/v2ray	undefined
-码	149.129.50.254	443	eb9d626c-2d6f-384e-ad8d-20dc02f6ecea	ws	/panel	tls
-码	75.2.65.82	10001	3b553e7e-144b-3152-ad91-2007dd47e206	ws	/v2ray	undefined
-码	104.24.189.254	443	65f11be5-ac71-4f0c-874b-d93c610c66ef	ws	/	tls
-码	13.75.112.90	80	83c18473-68f5-4c6e-8f3b-728abd2f04df	ws	/	undefined
-码	a5fae22063e7ec424.awsglobalaccelerator.com	153	183afe24-06cb-310d-8023-37bbf50579e7	ws	/api/v3/download.getFile	undefined
-码	99.83.147.39	443	fea8152a-1ce1-35fe-9c61-80c18a73b06e	tcp	/	undefined
-码	dt.cn1gz.dnsairport.tk	29008	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	47.254.36.131	35601	d3fea656-2cf0-49b3-ad52-0bbfb97d36ee	tcp		
-码	116.163.46.231	10092	9181099b-ce67-341a-bec4-9b16ed1a54df	tcp	/	undefined
-码	dd.199301.xyz	443	fdb86cbc-c537-4a92-9717-0d4ba26ab9ea	ws	/dde7fa4/	tls
-码	76.223.31.163	11051	b792eb69-f120-4956-bf79-571696ff48fb	ws	/tg-sharecentre/speedtest/10mb.bin	tls
-码	v2us03.isxa.top	443	8c555a3e-2a01-4ff2-90cf-71c3de259a4f	ws	/ray	tls
-码	104.28.5.176	443	37e3274e-1fc8-4879-ac24-0fa256952a5a	ws	/	tls
-码	104.19.3.85	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
-码	99.83.152.94	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	
-码	chinahr.cf	443	44358ada-692a-11eb-8ca7-560003302851	ws	/H2kqG7ZI/	tls
-码	101.32.189.139	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	139.180.201.218	443	a9d7e266-5e7b-11eb-953d-5600032a2c1a	ws	/YxVZvwTK/	tls
-码	104.18.57.108	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	gmegme.ga	443	8d19541c-691f-11eb-8182-5600033022bf	ws	/ULAIDYT2/	tls
-码	66.42.43.239	443	43e7dc88-6153-11eb-aa88-5600032bafd1	ws	/I8P3SdWO/	tls
-码	149.129.37.67	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	13.124.2.32	80	f5a8b2fb-f749-3f7e-947a-86e91ffedd08	ws	/v2ray	undefined
-码	219.76.161.234	64910	54039243-db93-34bf-9d6c-598db097247a	ws	/36071ppp	
-码	101.69.128.218	22655	aac47917-1fd9-358d-a219-f98d4e8d6c5a	ws	/hls/cctv5phd.m3u8	undefined
-码	101.32.189.40	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	13.248.214.149	882	bd3eec12-8a0e-4734-950f-1559cfcbb4ca	ws	/	undefined
-码	149.129.55.48	443	eb9d626c-2d6f-384e-ad8d-20dc02f6ecea	ws	/panel	tls
-码	cf9.cdnuk.xyz	80	182b1c26-bf44-4f93-8944-2f06e4c8c940	ws	/	
-码	103.56.60.132	35005	3f7a588a-9695-45f5-b48a-c6fabfa2bddd	ws	/	undefined
-码	13.124.91.9	80	a99038a1-4b85-3e08-a1d5-909ccc999a6a	ws	/abouts	undefined
-码	cf4.cdnuk.xyz	80	45a9d469-3eaa-44d9-a4db-033ba3760e8a	ws	/	
-码	120.240.102.43	29005	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	183.232.228.122	3202	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	v2-01.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	132.145.115.125	443	6b38627b-a045-4d79-95c8-e505073dd12d	ws	/0361125/	tls
-码	99.83.144.70	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
-码	120.236.197.201	3205	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	ace6b3ec9d0b0945a.awsglobalaccelerator.com	153	2273599d-43cc-324f-a34b-6e156c909deb	ws	/api/v3/download.getFile	undefined
-码	a86c5a8f3e3f3caf9.awsglobalaccelerator.com	8080	2a4c56b2-dbad-4479-bca4-06c00bc442ee	ws	/	
-码	141.164.51.45	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	cf7.cdnuk.xyz	80	182b1c26-bf44-4f93-8944-2f06e4c8c940	ws	/	
-码	104.21.53.228	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	104.16.110.238	443	b3fa05fb-b1df-a5c9-ebbc-f6b9c1809b93	ws	/yzthvws	tls
-码	14.17.97.134	153	c5f8f168-0dda-3ca6-89a0-d15d8f1b1644	ws	/api/v3/download.getFile	undefined
-码	v2-06.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	120.236.198.162	1443	789e0acf-4fef-386d-8a54-ee60e46c5420	ws	/cm/gz1/jp1	tls
-码	104.19.192.29	80	278f1c13-f3c3-3d96-8b80-29aea5e3f682	ws	/xiaodao	
-码	8.210.3.133	56647	c2181184-e487-4b37-a029-f61d90523950	tcp	/	
-码	104.27.185.67	443	7314d8d2-bdbc-4018-9ddd-5fec160a90cf	ws	/ray	tls
-码	104.18.7.138	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	13.248.189.183	80	9e4d73c2-7102-3885-8a85-0ada1627bb3f	ws	/tudog	undefined
-码	awsxjp1.qlssvip.xyz	30002	bab942ca-c98c-478a-8b24-0bb292af6c92	ws	/	
-码	194.62.214.2	30001	b53aeb92-2bc3-4a82-b43d-ef1324e14614	ws	/	undefined
-码	v2-12.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	173.82.226.53	80	fadbe2df-0aed-3299-bf5d-c7f69ad27824	ws	/v2ray	undefined
-码	c-us3.ooxc.cc	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
-码	75.2.124.153	80	797cf2a2-6c2b-4e66-9fbf-b07ea045a150	ws	/	undefined
-码	149.129.53.147	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	v2-09.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	116.163.14.131	3306	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	a02a31a96d70589c9.awsglobalaccelerator.com	153	4ca5ea3c-986c-3b7a-a0b7-a6246c296bc1	ws	/api/v3/download.getFile	undefined
-码	47.74.33.249	443	d9ac9fef-6fb3-39fe-a2f2-9b682c60aca3	ws	/acgku	tls
-码	j.199301.xyz	443	6b38627b-a045-4d79-95c8-e505073dd12d	ws	/0361125/	tls
-码	125.46.39.227	10089	9181099b-ce67-341a-bec4-9b16ed1a54df	tcp	/	undefined
-码	103.56.60.132	35002	3f7a588a-9695-45f5-b48a-c6fabfa2bddd	ws	/	undefined
-码	120.236.197.141	3306	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	76.223.45.155	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	
-码	75.2.66.76	8080	bbedfdf4-468c-458f-84ce-6c55640c4a2d	ws	/	undefined
-码	47.242.3.210	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	120.132.51.7	543	BD6B044F-8A1C-BC67-1C0F-F581911BD274	tcp	/	undefined
-码	icook.tw	443	9595a2cc-3d22-11eb-92c7-6dbdb10e5bba	ws	/mlh8uLRD/	tls
-码	183.239.70.171	443	39493d0a-902e-3d53-b9a2-c1efd1ff5358	ws	/pucloud	tls
-码	119.28.93.48	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	183.232.228.122	3201	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	gz.yaode.ga	10025	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	dt.cn1gz.dnsairport.tk	29005	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	guangdong04.vq1021.site	13076	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
-码	211.72.35.152	443	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.icloud.com:30513	tls
-码	60.249.3.226	443	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.icloud.com:30513	tls
-码	122.190.3.24	443	da136559-eb65-3a74-b747-5866439e8c46	ws	/panel	tls
-码	dt.cn1cs.dnsairport.tk	29003	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	122.190.3.22	80	a4238f2e-dc04-33f7-968e-ea2d4c95bef3	ws	/v2ray	undefined
-码	116.163.46.231	10087	9181099b-ce67-341a-bec4-9b16ed1a54df	tcp	/	undefined
-码	45.91.92.191	80	689cec36-addb-4f36-b8a1-5cc117cb1cbc	ws	/ray	
-码	172.247.199.245	443	fa822afc-170c-412b-a876-cd077812a5b3	ws	/footers	tls
-码	75.2.112.5	11072	0f38c06c-0e15-498a-851c-b429de42de2b	ws	/	
-码	203.218.253.227	10050	fadbe2df-0aed-3299-bf5d-c7f69ad27824	ws	/v2ray	undefined
-码	141.101.115.25	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
-码	13.248.189.120	10001	3b553e7e-144b-3152-ad91-2007dd47e206	ws	/v2ray	undefined
-码	149.129.42.15	443	f6769679-3960-33d4-a91e-35a04bc190de	ws	/panel	tls
-码	3.36.74.28	80	39493d0a-902e-3d53-b9a2-c1efd1ff5358	ws	/pucloud	undefined
-码	45.147.200.165	8080	1285daf5-d0a5-4ef9-9181-229fc9680bd5	ws	/WebSocket	undefined
-码	104.21.29.250	443	37e3274e-1fc8-4879-ac24-0fa256952a5a	ws	/	tls
-码	52.221.245.123	30002	bab942ca-c98c-478a-8b24-0bb292af6c92	ws	/	
-码	us.199301.xyz	30010	fd00927a-b0c2-4629-aef7-d9ff15a9d722	ws	/websocket	
-码	13.248.130.129	443	5453d090-7493-3791-8fc4-c941d397040d	ws	/mugua	undefined
-码	172.67.150.22	443	37e3274e-1fc8-4879-ac24-0fa256952a5a	ws	/	tls
-码	149.129.59.174	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	75.2.65.82	10000	3b553e7e-144b-3152-ad91-2007dd47e206	ws	/v2ray	undefined
-码	14.17.97.135	153	916b5125-ed80-3a8d-a32b-267917ba352f	ws	/api/v3/download.getFile	undefined
-码	104.16.148.48	443	b3fa05fb-b1df-a5c9-ebbc-f6b9c1809b93	ws	/yzthvws	tls
-码	61.216.166.234	153	4e87f851-37cc-3b49-9cb5-6582985dc68a	ws	/api/v3/download.getFile	undefined
-码	107.175.44.154	443	114f5786-a8a0-446a-a32f-446893480560	ws	/27353486f3a1d4f/	tls
-码	guangdong04.vq1021.site	13194	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
-码	173.82.154.163	443	d1c2396a-6bcc-3513-8db0-aff285dadb6b	ws	/v2ray	tls
-码	120.236.197.201	3203	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	211.43.15.85	153	daf261c8-0a9a-3fe2-8229-f96644a93745	ws	/api/v3/download.getFile	undefined
-码	v2-17.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	104.18.54.236	443	311e968c-038e-11eb-b700-512f35e39e11	ws	/H9SMty3O/	tls
-码	pccw1.qiangdong.xyz	153	ea90c104-4d4c-325e-a41d-18b57e046cbe	ws	/api/v3/download.getFile	undefined
-码	104.19.4.12	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
-码	61.164.109.185	20008	d3b25e35-4fd4-46ae-bc90-dbfdf65fb439	ws	/user	undefined
-码	ru.199301.xyz	443	738438a8-f8a9-4e19-ae96-77399e3024e6	ws	/cc025514ca9/	tls
-码	52.196.144.61	3306	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/c27821f.fm.apple.com:16708	undefined
-码	guangdong02.vq1021.site	13312	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
-码	116.163.14.38	50002	cbe809c2-1b48-3990-89bb-40dcdd2713c8	ws	/index	undefined
-码	185.243.57.132	443	fdb86cbc-c537-4a92-9717-0d4ba26ab9ea	ws	/dde7fa4/	tls
-码	172.67.186.204	443	f299184b-19e0-41a4-9b4b-65fa8f0e691c	ws	/jj	tls
-码	76.223.45.47	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
-码	3.ioqr.cn	8080	657f7981-0138-4c99-9199-51f62002d8e5	ws	/1234	
-码	122.192.189.41	11438	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	120.236.197.201	3306	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	120.236.197.201	3204	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	zhong2.zhui99966.club	16668	dcd3bf33-2b75-36f3-9705-7d95b9c23a49	ws	/video192	undefined
-码	dt.cn1cs.dnsairport.tk	29004	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	dt.cn1cs.dnsairport.tk	29002	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	guangdong04.vq1021.site	13182	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
-码	61.164.109.185	20006	d3b25e35-4fd4-46ae-bc90-dbfdf65fb439	ws	/	undefined
-码	8.210.145.13	443	0beb8a36-4bb0-4d73-bc84-a5ffe925b9f1	ws	/0beb8a36	tls
-码	13.248.220.69	8080	bbedfdf4-468c-458f-84ce-6c55640c4a2d	ws	/	undefined
-码	tw003plz.myidcddns.com	18080	c6f2483e-a1d6-31df-b47e-a11b7d8a8027	ws	/v2ray	undefined
-码	76.223.63.39	80	9e4d73c2-7102-3885-8a85-0ada1627bb3f	ws	/tudog	undefined
-码	149.129.62.192	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	104.16.124.96	443	b3fa05fb-b1df-a5c9-ebbc-f6b9c1809b93	ws	/yzthvws	tls
-码	173.82.105.227	443	15aa265a-1454-41f2-bc1f-a2bcbcae6a7b	ws	/v	tls
-码	99.83.181.186	11011	cccf242d-5da6-41ac-9ea3-9f78e7bb8c58	ws	/downloads/wechat.setup.exe	undefined
-码	122.192.218.31	10443	789e0acf-4fef-386d-8a54-ee60e46c5420	ws	/cu/xz1/in1	tls
-码	154.17.3.44	52346	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
-码	45.130.147.69	443	9a198e1e-b67a-42a7-86a2-7d91d037bc5e	ws	/bda87216fa0a/	tls
-码	211.72.35.153	3306	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	13.248.130.129	80	78e34624-1e2a-3d09-b3fd-d3a15d59b2dd	ws	/tudog	undefined
-码	104.18.8.157	443	b3fa05fb-b1df-a5c9-ebbc-f6b9c1809b93	ws	/yzthvws	tls
-码	154.84.1.143	443	2886122d-02ab-4790-ac94-2bb32818a686	ws	/footers	tls
-码	c-jp1.ooxc.cc	443	f299184b-19e0-41a4-9b4b-65fa8f0e691c	ws	/jj	tls
-码	a28034451ac2a38b7.awsglobalaccelerator.com	153	f69a76c2-29f4-36e9-8cf8-999c5378f054	ws	/api/v3/download.getFile	undefined
-码	141.101.115.54	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
-码	163.172.210.122	80	930ab934-c00e-403a-818c-171804966a22	ws	/VtFojwDy9x	none
-码	116.163.14.115	3306	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	8.210.189.175	443	eb9d626c-2d6f-384e-ad8d-20dc02f6ecea	ws	/panel	tls
-码	75.2.34.208	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
-码	121.201.1.191	443	787792ea-7979-359b-bb69-07bc8dffdccf	ws	/v2ray	tls
-码	23.100.90.215	80	83c18473-68f5-4c6e-8f3b-728abd2f04df	ws	/	undefined
-码	75.2.116.111	153	d49562d0-b5ca-383a-b8f1-d031194ec1b0	ws	/api/v3/download.getFile	undefined
-码	14.17.97.138	153	7f4ac18f-f601-3c75-8715-0502edd0f653	ws	/api/v3/download.getFile	undefined
-码	47.91.30.158	443	d9ac9fef-6fb3-39fe-a2f2-9b682c60aca3	ws	/acgku	tls
-码	gz.yaode.ga	10031	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	8.210.76.1	443	fd4668b8-45d3-32f1-b5b8-195aa0d407c3	ws	/panel	tls
-码	23.225.178.210	443	6f467adb-e8d0-418d-8a57-d01731993268	ws	/footers	tls
-码	149.129.37.174	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	120.236.197.201	3202	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	120.89.61.199	153	5dfb5433-b78b-344e-a6bc-e84f8e12f15a	ws	/api/v3/download.getFile	undefined
-码	gz.yaode.ga	10034	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	75.2.116.18	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
-码	laxgongyi3.hjynode.com	443	d1c2396a-6bcc-3513-8db0-aff285dadb6b	ws	/v2ray	tls
-码	183.232.228.122	3204	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	104.31.14.217	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	13.248.157.101	11051	b792eb69-f120-4956-bf79-571696ff48fb	ws	/tg-sharecentre/speedtest/10mb.bin	tls
-码	150.66.28.175	153	5bac8d7a-1c5c-3820-95de-b236329e10e2	ws	/api/v3/download.getFile	undefined
-码	170.106.105.222	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	gz.yaode.ga	10019	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	116.163.14.52	13583	b8e82177-7d85-3ad8-871a-f4a27038cd67	ws	/v2ray	undefined
-码	v2us01.isxa.top	443	4fa2e128-f5dd-47a1-a59b-1443e7a5d78a	ws	/ray	tls
-码	104.27.139.219	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	120.236.198.191	28031	17d5b348-0fb9-3410-bbca-7e81b7151ae7	ws	/v2ray	undefined
-码	guangdong02.vq1021.site	13321	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
-码	149.129.41.113	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	104.27.168.201	443	aebb8472-b93b-4001-8b98-928456080643	ws	/a3f4a4ae1476c4b/	tls
-码	8.210.60.227	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	210.0.158.130	443	789e0acf-4fef-386d-8a54-ee60e46c5420	ws	/racernet	tls
-码	211.43.15.86	153	6da5e16c-b408-37b8-83a7-c400cc9be7e0	ws	/api/v3/download.getFile	undefined
-码	pccw3.qiangdong.xyz	153	bec08504-426a-3de2-b6b2-d4a80c03bfc8	ws	/api/v3/download.getFile	undefined
-码	119.28.20.86	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	cloudflare.com	443	ad806487-2d26-4636-98b6-ab85cc8521f7	ws	/	tls
-码	149.129.42.177	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	149.129.54.114	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	76.223.1.37	80	78e34624-1e2a-3d09-b3fd-d3a15d59b2dd	ws	/tudog	undefined
-码	173.82.235.25	443	d1c2396a-6bcc-3513-8db0-aff285dadb6b	ws	/v2ray	tls
+码	47.112.23.90	153	6df93022-abb8-3407-a05b-275e0576bc59	ws	/api/v3/download.getFile	undefined
+码	75.2.82.74	8080	ff28e4e2-70b6-4fd7-8100-d7f7c941afa6	ws	/	undefined
+码	1.0.0.1	443	8c35bef3-d51f-41ab-ac87-7b053410495b	ws	/	tls
+码	183.232.228.122	3306	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
+码	18.162.62.194	443	37932e47-dc63-4ac2-9848-5c5c63827fd6	ws	/	
 码	112.33.51.86	60011	a78b9dff-7e3f-334d-8998-a736990f169c	ws	/	undefined
-码	c-ru2.ooxc.cc	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
-码	guangdong04.vq1021.site	13343	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
-码	154.84.1.180	443	0107fdcc-8d47-4b97-9330-3b3d9ab30046	ws	/footers	tls
+码	149.129.49.211	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	183.232.228.122	3205	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
+码	c-ru3.ooxc.cc	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
+码	120.232.214.212	11554	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
+码	120.232.182.213	50007	cbe809c2-1b48-3990-89bb-40dcdd2713c8	ws	/videos	undefined
+码	58.176.179.153	80	0f063704-5b50-3208-8b14-21c70c4ffa45	ws	/zh-tw/windows	
+码	173.82.240.245	443	219be2f9-573d-4507-9e9b-74b385ba1c9c	ws	/0574a110e138dd/	tls
+码	132.145.111.134	443	bae399d4-13a4-46a3-b144-4af2c0004c2e	ws	/v2ray	tls
+码	cc.hciahciphcie.club	443	219be2f9-573d-4507-9e9b-74b385ba1c9c	ws	/0574a110e138dd/	tls
+码	www.kernels.bid	443	f3d53b56-c11d-ecef-0768-801987e6c23b	ws	undefined	tls
+码	104.24.102.20	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
+码	ntt-japan.xiaohouzi.club	10050	fadbe2df-0aed-3299-bf5d-c7f69ad27824	ws	/v2ray	
+码	75.2.34.208	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
+码	99.83.144.193	443	a4c9bfa8-9c89-459e-99b6-aa253c4e164f	ws	/	
+码	104.129.8.104	443	7cbacaa1-c79c-4359-92d8-1764087ba3f5	ws	/v2x/	tls
+码	14.17.97.134	153	c5f8f168-0dda-3ca6-89a0-d15d8f1b1644	ws	/api/v3/download.getFile	undefined
+码	guangdong05.ddns-only.xyz	13096	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
+码	llajv.rebldp.tech	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
+码	121.201.1.191	443	787792ea-7979-359b-bb69-07bc8dffdccf	ws	/v2ray	tls
+码	13.248.130.129	443	5453d090-7493-3791-8fc4-c941d397040d	ws	/mugua	undefined
+码	us.199301.xyz	30010	fd00927a-b0c2-4629-aef7-d9ff15a9d722	ws	/websocket	
+码	hk2198.azzico.space	11577	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
 码	h3.coding996.com	443	0c196733-dcd4-45b1-b8e8-de071ec479ce	ws	/v2ray	tls
+码	hk01a-wss.kbservice.club	1001	0f063704-5b50-3208-8b14-21c70c4ffa45	ws	/zh-tw/azure	tls
 码	211.72.35.152	80	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.icloud.com:30513	undefined
+码	120.232.214.212	11577	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
+码	172.67.37.179	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
+码	149.129.59.174	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	hkt-002.liyun.edu.pl	21236	615f04c4-00c2-3cb3-8dcf-7465e1fed225	ws	/07hgtds	
+码	149.129.118.218	443	789e0acf-4fef-386d-8a54-ee60e46c5420	ws	/racernet	tls
 码	101.69.128.218	22653	aac47917-1fd9-358d-a219-f98d4e8d6c5a	ws	/v2ray	undefined
+码	149.129.57.30	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	www.baidu.com	443	d94cd0de-0dfb-3b90-b043-1789cb027e31	ws	/panel	tls
 码	104.18.56.108	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
+码	172.67.37.175	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
+码	192.74.250.166	443	55819483-6a4e-4a60-b394-b64e42109b99	ws	/footers	tls
+码	47.91.30.158	443	d9ac9fef-6fb3-39fe-a2f2-9b682c60aca3	ws	/acgku	tls
+码	149.129.50.254	443	eb9d626c-2d6f-384e-ad8d-20dc02f6ecea	ws	/panel	tls
 码	47.74.62.222	443	d9ac9fef-6fb3-39fe-a2f2-9b682c60aca3	ws	/acgku	tls
 码	45.147.200.32	8080	1285daf5-d0a5-4ef9-9181-229fc9680bd5	ws	/WebSocket	undefined
+码	54.193.175.111	41807	e3f10ded-da2f-4866-a3d4-f054f4f5a222	ws	/	
+码	auto.freev2.top	44043	621e0f26-3bd6-4a6a-9ba4-fad5ebf4830a	tcp	undefined	
+码	162.247.5.95	443	dcdac836-2050-4ea2-87aa-d33aed61ac04	ws	/	tls
+码	104.18.7.138	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
+码	13.248.189.183	80	9e4d73c2-7102-3885-8a85-0ada1627bb3f	ws	/tudog	undefined
+码	18.163.180.255	8080	db14be3e-6abe-48e5-a553-b9e2cc7e7a3d	ws		
+码	76.223.1.37	443	5453d090-7493-3791-8fc4-c941d397040d	ws	/mugua	undefined
+码	1.0.0.10	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
 码	dt.cn1gz.dnsairport.tk	29009	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
-码	v2-02.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	104.28.4.176	443	37e3274e-1fc8-4879-ac24-0fa256952a5a	ws	/	tls
+码	dt.hkaz.dnsairport.tk	29018	256cb565-9d2f-3a1f-8b07-4a40cc0822cf	ws	/tz	
+码	hk2197.azzico.space	11576	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
+码	104.16.133.229	443	08f52d56-2a29-4b72-bc8a-9efcbb5fd05d	ws	/sjimvws	tls
+码	13.75.112.90	80	83c18473-68f5-4c6e-8f3b-728abd2f04df	ws	/	undefined
+码	120.236.197.201	3203	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
+码	149.129.37.174	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	103.56.60.132	35007	3f7a588a-9695-45f5-b48a-c6fabfa2bddd	ws	/	undefined
+码	211.43.15.85	153	daf261c8-0a9a-3fe2-8229-f96644a93745	ws	/api/v3/download.getFile	undefined
+码	xz-bgp01.iplc188.com	10014	aeca4a28-61b6-42e7-8efd-a3c58d6dd72f	tcp		
+码	104.31.94.236	443	8c35bef3-d51f-41ab-ac87-7b053410495b	ws	/	tls
 码	183.232.228.90	3306	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	172.67.184.128	443	011e3bc5-8d82-2efa-c844-05f9daae9a0d	ws	/sommvws	tls
-码	dt.cn1cs.dnsairport.tk	29020	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
+码	58.177.131.223	443	b707c9e6-3a61-4f0b-8844-9a398cfadfb7	ws	/add76314/	tls
+码	104.21.42.33	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
+码	170.106.105.141	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
+码	c-us3.ooxc.cc	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
+码	free-node.ddns.yunjiasunode.xyz	443	258aa9ee-8d7c-44ec-b344-1dfbaa23ee1f	ws	/api/shop	tls
+码	45.77.19.232	10050	fadbe2df-0aed-3299-bf5d-c7f69ad27824	ws	/v2ray	
+码	170.106.105.195	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
+码	149.129.53.147	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	120.232.214.212	11566	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
 码	61.164.109.185	20010	d3b25e35-4fd4-46ae-bc90-dbfdf65fb439	ws	/	undefined
-码	guangdong04.vq1021.site	13288	aac29ca0-6ca1-3140-a155-4890bb362e1f	ws	/v2ray	undefined
-码	a29aa7ba467f6efab.awsglobalaccelerator.com	153	d49562d0-b5ca-383a-b8f1-d031194ec1b0	ws	/api/v3/download.getFile	undefined
-码	gz.yaode.ga	10032	3f7f56b7-7319-3b98-bdc0-0de911088ae3	ws	/v2ray	undefined
-码	92.38.189.124	443	23ad6b10-8d1a-40f7-8ad0-e3e35cd38297	tcp	/	tls
+码	dt.hkaz.dnsairport.tk	29012	256cb565-9d2f-3a1f-8b07-4a40cc0822cf	ws	/tz	
+码	172.67.199.187	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
+码	120.89.61.199	153	5dfb5433-b78b-344e-a6bc-e84f8e12f15a	ws	/api/v3/download.getFile	undefined
+码	61.164.109.185	20008	d3b25e35-4fd4-46ae-bc90-dbfdf65fb439	ws	/user	undefined
+码	120.232.43.54	26001	024f86c8-d68d-34c4-83ae-ff239fb1f011	ws	/v2ray	
+码	tw-cht-tls-01.kbservice.club	465	0f063704-5b50-3208-8b14-21c70c4ffa45	tcp		tls
+码	172.67.199.146	443	0714c692-aaa1-4ec1-bfa8-0301bfe734e1	ws	/xzptvws	tls
+码	116.163.46.231	10092	9181099b-ce67-341a-bec4-9b16ed1a54df	tcp	/	undefined
+码	47.74.33.249	443	d9ac9fef-6fb3-39fe-a2f2-9b682c60aca3	ws	/acgku	tls
+码	ru.199301.xyz	443	738438a8-f8a9-4e19-ae96-77399e3024e6	ws	/cc025514ca9/	tls
+码	158.247.209.122	443	927662d6-6fd9-11eb-8f42-56000333a2f0	ws	/dAWtaZlG/	tls
+码	twpro6025.azzico.space	11554	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
+码	cdnde.irteyz.today	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
+码	la-dmit-vol-006.xc188.net	443	aeca4a28-61b6-42e7-8efd-a3c58d6dd72f	ws	/clientarea	tls
+码	xz-bgp01.iplc188.com	10012	aeca4a28-61b6-42e7-8efd-a3c58d6dd72f	tcp		
+码	18.162.225.62	443	fa01b683-1986-4aeb-8d12-ebfc735970e0	ws	/	
+码	75.2.116.18	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
+码	dt.hkaz.dnsairport.tk	29015	256cb565-9d2f-3a1f-8b07-4a40cc0822cf	ws	/tz	
 码	116.163.14.253	3306	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
-码	26.HKG.ASIA.BIGAIRPORT.NET	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	
-码	120.236.198.191	28029	17d5b348-0fb9-3410-bbca-7e81b7151ae7	ws	/v2ray	undefined
-码	8.210.235.17	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	125.46.39.227	10089	9181099b-ce67-341a-bec4-9b16ed1a54df	tcp	/	undefined
+码	185.22.154.54	8080	1285daf5-d0a5-4ef9-9181-229fc9680bd5	ws	/WebSocket	undefined
+码	183.232.228.122	3204	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
+码	103.56.60.132	35002	3f7a588a-9695-45f5-b48a-c6fabfa2bddd	ws	/	undefined
+码	149.129.44.97	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	76.223.45.155	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	
+码	1.0.0.6	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
+码	116.163.14.38	50002	cbe809c2-1b48-3990-89bb-40dcdd2713c8	ws	/index	undefined
+码	217.138.193.121	443	ada76fe2-6c04-11eb-a3c5-00163e5b6e9f	ws	/TjAezgOC/	tls
+码	www.kernels.bid	80	73ed5af4-1fef-0672-e0f9-5ec2123db65a	ws	undefined	none
+码	104.31.14.217	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
+码	45.89.229.87	443	738438a8-f8a9-4e19-ae96-77399e3024e6	ws	/cc025514ca9/	tls
+码	149.129.57.224	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	dt.cn1gz.dnsairport.tk	29006	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
+码	120.132.51.7	543	BD6B044F-8A1C-BC67-1C0F-F581911BD274	tcp	/	undefined
+码	103.253.40.205	443	87ffc1fa-f03b-4c24-9e2f-06259c6a740f	tcp		
+码	170.106.105.222	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
+码	fenxiang.meiya.live	8443	6aab8747-a2ac-313c-9430-8369a65f3f1f	ws	/v2ray	tls
+码	dd.199301.xyz	443	fdb86cbc-c537-4a92-9717-0d4ba26ab9ea	ws	/dde7fa4/	tls
+码	61.92.118.47	80	0f063704-5b50-3208-8b14-21c70c4ffa45	ws	/zh-tw/windows	
+码	172.67.186.204	443	f299184b-19e0-41a4-9b4b-65fa8f0e691c	ws	/jj	tls
+码	v2us03.isxa.top	443	7bb7d648-4f70-43ca-820f-1cf4735dc42c	ws	/ray	tls
 码	47.112.178.187	153	330330e6-03d1-34a9-9c74-80e5748bed87	ws	/api/v3/download.getFile	undefined
+码	23.100.92.176	80	83c18473-68f5-4c6e-8f3b-728abd2f04df	ws	/	undefined
+码	hkt-imsbiz-04.kbservice.club	80	0f063704-5b50-3208-8b14-21c70c4ffa45	ws	/zh-tw/windows	
+码	183.239.70.171	443	39493d0a-902e-3d53-b9a2-c1efd1ff5358	ws	/pucloud	tls
+码	203.218.244.73	21236	615f04c4-00c2-3cb3-8dcf-7465e1fed225	ws	/07hgtds	
+码	v2us01.isxa.top	443	169235f8-6136-4900-a7d0-697865c5bffb	ws	/ray	tls
+码	183.232.228.122	3201	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
+码	103.56.60.132	35009	3f7a588a-9695-45f5-b48a-c6fabfa2bddd	ws	/	undefined
+码	104.19.23.24	443	08f52d56-2a29-4b72-bc8a-9efcbb5fd05d	ws	/sjimvws	tls
+码	dt.cn1gz.dnsairport.tk	29007	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
+码	3.ioqr.cn	8080	657f7981-0138-4c99-9199-51f62002d8e5	ws	/1234	
 码	149.129.38.194	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	99.83.152.94	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	
+码	104.27.139.219	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
 码	211.72.35.153	443	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.icloud.com:30513	tls
-码	42.3.27.165	7300	15c4db0c-48fe-11eb-a8bf-f23c91cfbbc9	tcp	/	tls
-码	v2-04.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
+码	13.248.162.102	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	
+码	jpc5269.azzico.space	11562	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
+码	twa3116.azzico.space	11566	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
+码	chinahr.cf	443	1ab1f9ca-70fd-11eb-b560-560003342622	ws	/8F0lrYE9/	tls
 码	60.249.3.226	80	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.icloud.com:30513	undefined
-码	104.19.3.98	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
-码	v2-13.ssrsub.one	50563	a9ebeccf-da59-8977-b5d9-1ad267fd7415	tcp		
-码	13.248.160.113	8080	5cf335d9-f783-4d95-89b2-898fec4b19f3	ws	/	undefined
+码	101.32.189.139	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
+码	18.166.56.185	443	37932e47-dc63-4ac2-9848-5c5c63827fd6	ws	/	
+码	dt.cn1gz.dnsairport.tk	29005	762f50f7-2264-3510-9fba-6d3e39ac623e	ws	/tz	
+码	tw-cht-tls-06.kbservice.club	470	0f063704-5b50-3208-8b14-21c70c4ffa45	tcp		tls
+码	149.129.44.166	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	azurehk2.0tk8a3a1q4t94dler.com	153	9f84c3f0-b97c-3d1c-966f-3811efd5a0e4	ws	/api/v3/download.getFile	undefined
+码	dt.hkaz.dnsairport.tk	29014	256cb565-9d2f-3a1f-8b07-4a40cc0822cf	ws	/tz	
+码	149.129.37.205	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	99.83.233.166	443	37932e47-dc63-4ac2-9848-5c5c63827fd6	ws	/	
+码	103.52.154.163	443	fa01b683-1986-4aeb-8d12-ebfc735970e0	ws	/	
+码	zhong2.zhui99966.club	16668	dcd3bf33-2b75-36f3-9705-7d95b9c23a49	ws	/video192	undefined
+码	99.83.186.46	8080	ff28e4e2-70b6-4fd7-8100-d7f7c941afa6	ws	/	undefined
 码	183.232.228.122	3203	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	undefined
+码	99.83.162.96	443	80d89c60-f7be-4ff0-a00a-a45fe783f7f4	ws	/	
+码	gmegme.ga	443	ef1ce80a-7102-11eb-bc57-560003342986	ws	/O8IygcGd/	tls
+码	120.232.214.212	11576	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
+码	66.42.43.239	443	ef1ce80a-7102-11eb-bc57-560003342986	ws	/O8IygcGd/	tls
 码	173.82.245.86	443	c87e413f-e3ac-4f25-9624-9d8e567a92af	ws	/v	tls
+码	149.129.37.67	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	172.67.219.122	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
+码	75.2.95.71	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
+码	211.72.35.152	443	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.icloud.com:30513	tls
+码	23.101.0.234	25103	615f04c4-00c2-3cb3-8dcf-7465e1fed225	ws	/downloads	
+码	60.249.3.226	443	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.icloud.com:30513	tls
+码	104.18.135.208	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
