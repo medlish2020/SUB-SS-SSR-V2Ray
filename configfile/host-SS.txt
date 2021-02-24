@@ -1,144 +1,126 @@
+码	142.47.108.90	167	t.me/SSRSUB	aes-256-cfb
 码	50.7.12.147	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	185.172.113.126	14116	bpnNZus6nlpu	aes-256-gcm
-码	45.130.146.118	8622	lncn.org t1g	rc4
-码	142.47.93.46	8891	https://suo.yt/ssrsub	aes-256-cfb
 码	69.30.201.82	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	217.197.161.209	806	G!yBwPWH3Vao	chacha20-ietf-poly1305
+码	142.47.93.46	8891	https://suo.yt/ssrsub	aes-256-cfb
 码	172.104.131.24	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	217.197.161.209	806	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	ssr-16.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb
-码	128.199.165.174	12018	isx.yt-07387209	aes-256-gcm
-码	138.199.22.145	33992	8n6pwAcrrv2pj6tFY2p3TbQ6	aes-256-gcm
-码	194.5.79.74	8622	lncn.org te5	rc4
 码	217.197.161.209	811	G!yBwPWH3Vao	chacha20-ietf-poly1305
-码	45.79.96.104	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	ssr-18.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb
-码	194.147.34.113	8622	lncn.org g9h	rc4
 码	217.197.161.209	807	G!yBwPWH3Vao	chacha20-ietf-poly1305
-码	61.14.210.244	33992	8n6pwAcrrv2pj6tFY2p3TbQ6	aes-256-gcm
 码	45.67.53.154	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
-码	46.17.42.208	8622	lncn.org j3t	rc4
 码	81.90.189.229	808	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	ssr-13.ssrsub.one	8897	https	aes-256-cfb
 码	ssr-10.ssrsub.one	8897	https	aes-256-cfb
 码	91.220.203.165	9366	lncn.org k2y	rc4
-码	45.135.134.67	8622	lncn.org j3t	rc4
-码	172.83.42.158	40093	x23Z4LGkGDkThZ9Kaz4DURQp	aes-256-gcm
 码	45.79.111.214	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb
-码	45.33.47.15	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	217.197.161.209	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	37.120.151.14	810	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	45.85.3.142	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
+码	139.162.54.34	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	172.105.127.199	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	198.52.125.212	8897	https://dlj.tf/ssrsub	aes-256-cfb
+码	192.241.204.205	12571	isx.yt-44000117	aes-256-gcm
 码	54.238.248.99	8897	https://suo.yt/ssrsub	aes-256-cfb
 码	81.90.189.152	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
-码	192.241.204.205	18034	isx.yt-13626404	aes-256-gcm
 码	103.152.151.86	40093	x23Z4LGkGDkThZ9Kaz4DURQp	aes-256-gcm
 码	66.115.154.131	39772	CUndSZnYsPKcu6Kj8THVMBHD	aes-256-gcm
-码	45.85.3.153	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	103.152.151.67	39772	CUndSZnYsPKcu6Kj8THVMBHD	aes-256-gcm
-码	ssr-15.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb
+码	45.85.3.153	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
+码	ssr-17.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb
 码	192.111.134.207	37588	kD9vkjnE6dsUzwQfvKkPkQAd	aes-256-gcm
-码	185.120.17.126	8622	lncn.org t1g	rc4
-码	192.111.134.205	33992	8n6pwAcrrv2pj6tFY2p3TbQ6	aes-256-gcm
+码	ssr-15.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb
+码	128.199.165.174	17221	isx.yt-04792404	aes-256-gcm
 码	172.104.131.24	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	52.77.233.37	8897	https://suo.yt/ssrsub	aes-256-cfb
 码	ssr-11.ssrsub.one	8897	https	aes-256-cfb
-码	192.240.123.26	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	ssr-12.ssrsub.one	8897	https	aes-256-cfb
-码	156.146.56.137	40093	x23Z4LGkGDkThZ9Kaz4DURQp	aes-256-gcm
 码	69.30.201.82	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	172.83.42.53	33992	8n6pwAcrrv2pj6tFY2p3TbQ6	aes-256-gcm
-码	46.29.165.50	8622	lncn.org 9jy	rc4
-码	61.14.210.244	39772	CUndSZnYsPKcu6Kj8THVMBHD	aes-256-gcm
+码	192.241.194.74	17013	isx.yt-44982201	aes-256-gcm
 码	45.85.3.162	806	G!yBwPWH3Vao	chacha20-ietf-poly1305
-码	217.197.160.109	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	45.85.3.162	801	G!yBwPWH3Vao	chacha20-ietf-poly1305
+码	217.197.160.109	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	192.240.99.182	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	3.36.120.179	8897	https://suo.yt/ssrsub	aes-256-cfb
-码	61.14.210.244	40093	x23Z4LGkGDkThZ9Kaz4DURQp	aes-256-gcm
 码	185.128.24.34	810	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	176.119.158.161	167	t.me/SSRSUB	aes-256-cfb
-码	37.120.151.14	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	109.166.37.21	34567	dongtaiwang.com 123abc	rc4
 码	ssr-07.ssrsub.one	8891	https	aes-256-cfb
 码	45.141.101.242	167	t.me/SSRSUB	aes-256-cfb
 码	ssr-14.ssrsub.one	147	https	aes-256-cfb
 码	45.132.19.193	167	t.me/SSRSUB	aes-256-cfb
 码	45.62.249.84	8891	https://suo.yt/ssrsub	aes-256-cfb
-码	195.133.5.77	8622	lncn.org te5	rc4
-码	185.124.240.147	39772	CUndSZnYsPKcu6Kj8THVMBHD	aes-256-gcm
-码	184.170.250.67	33992	8n6pwAcrrv2pj6tFY2p3TbQ6	aes-256-gcm
-码	192.241.194.74	11992	isx.yt-33659451	aes-256-gcm
-码	45.33.47.15	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	192.241.215.191	18636	ssx.re-50419052	aes-256-cfb
+码	ssr-03.ssrsub.one	8891	https	aes-256-cfb
 码	61.222.202.195	810	G!yBwPWH3Vao	chacha20-ietf-poly1305
-码	192.240.123.26	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	184.170.250.69	39772	CUndSZnYsPKcu6Kj8THVMBHD	aes-256-gcm
 码	ssr-09.ssrsub.one	8897	https	aes-256-cfb
+码	159.65.99.228	16046	ssx.re-97442950	aes-256-cfb
 码	103.152.151.85	39772	CUndSZnYsPKcu6Kj8THVMBHD	aes-256-gcm
 码	ssr-20.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb
-码	45.79.96.104	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	195.133.147.222	167	t.me/SSRSUB	aes-256-cfb
 码	172.104.36.4	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	45.85.3.149	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
+码	45.62.249.17	167	t.me/SSRSUB	aes-256-cfb
 码	ssr-06.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb
 码	ssr-02.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb
-码	45.62.249.17	167	t.me/SSRSUB	aes-256-cfb
 码	103.124.106.236	8897	https://dlj.tf/ssrsub	aes-256-cfb
 码	89.163.224.142	12345	dongtaiwang.com 123abc	rc4
 码	ssr-19.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb
+码	206.189.151.59	12111	ssx.re-55588256	aes-256-cfb
+码	45.85.3.153	803	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	ssr-05.ssrsub.one	8891	https	aes-256-cfb
 码	ssr-08.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb
-码	185.168.20.117	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	89.31.126.155	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	107.181.166.55	33992	8n6pwAcrrv2pj6tFY2p3TbQ6	aes-256-gcm
 码	185.128.24.34	805	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	ssr-01.ssrsub.one	8891	https	aes-256-cfb
 码	194.87.111.106	167	t.me/SSRSUB	aes-256-cfb
 码	173.0.55.66	12345	dongtaiwang.com 123abc	rc4-md5
+码	ssr-04.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb
+码	185.120.17.126	7159	lncn.org h3	rc4	origin	plain
 码	50.7.12.147	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	192.240.99.182	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	45.130.146.118	8622	lncn.org t1g	rc4	origin	plain
 码	69.30.201.82	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	172.104.131.24	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	ssr-16.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb	origin	plain
+码	194.50.170.69	7159	lncn.org t3g	rc4	origin	plain
 码	194.156.120.102	8885	www.freess.best	none	auth_chain_a	plain
-码	194.5.79.74	8622	lncn.org te5	rc4	origin	plain
-码	45.79.96.104	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	109.166.37.21	34567	dongtaiwang.com 123abc	rc4	origin	plain
 码	ssr-18.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb	origin	plain
 码	ssr-07.ssrsub.one	8891	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
+码	z5912.security-cloudfront-cdn.com	23145	i7PA6t3FQZUdl2q7	aes-256-cfb	origin	http_simple
+码	45.135.134.67	7159	lncn.org w3f	rc4	origin	plain
 码	45.33.88.190	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	ssr-14.ssrsub.one	147	https://dlj.tf/ssrsub	aes-256-cfb	origin	plain
-码	195.133.5.77	8622	lncn.org te5	rc4	origin	plain
-码	46.17.42.208	8622	lncn.org j3t	rc4	origin	plain
+码	46.17.42.208	7159	lncn.org w3f	rc4	origin	plain
+码	46.29.165.50	7159	lncn.org wd	rc4	origin	plain
+码	ssr-03.ssrsub.one	8891	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
 码	ssr-13.ssrsub.one	8897	https://dlj.tf/ssrsub	aes-256-cfb	origin	plain
-码	45.33.47.15	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	ssr-10.ssrsub.one	8897	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
 码	91.220.203.165	9366	lncn.org k2y	rc4	origin	plain
-码	192.240.123.26	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	45.135.134.67	8622	lncn.org j3t	rc4	origin	plain
 码	ssr-09.ssrsub.one	8897	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
 码	45.56.94.40	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
-码	45.33.47.15	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	194.147.34.113	7159	lncn.org wd	rc4	origin	plain
 码	45.79.79.37	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	ssr-20.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb	origin	plain
-码	45.79.96.104	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	46.29.164.14	8622	lncn.org g9h	rc4	origin	plain
+码	46.29.164.14	7159	lncn.org wd	rc4	origin	plain
 码	ssr-17.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb	origin	plain
-码	185.120.17.126	8622	lncn.org t1g	rc4	origin	plain
-码	ssr-02.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb	origin	plain
+码	ssr-15.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb	origin	plain
 码	ssr-06.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb	origin	plain
+码	ssr-02.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb	origin	plain
 码	172.104.131.24	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.88.179.199	24156	darrenliuwei.com	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
 码	89.163.224.142	12345	dongtaiwang.com 123abc	rc4	origin	plain
-码	ssr-11.ssrsub.one	8897	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
 码	ssr-19.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb	origin	plain
-码	192.240.123.26	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	ssr-11.ssrsub.one	8897	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
 码	ssr-12.ssrsub.one	8897	https://dlj.tf/ssrsub	aes-256-cfb	origin	plain
 码	ssr-05.ssrsub.one	8891	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
-码	ssr-08.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb	origin	plain
 码	117.28.243.187	8333	passfw2xs4e!	rc4-md5	origin	plain
-码	185.120.17.126	8722	lncn.org 5jt	rc4	origin	plain
+码	ssr-08.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb	origin	plain
 码	69.30.201.82	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	46.29.165.50	8622	lncn.org 9jy	rc4	origin	plain
 码	45.79.66.9	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	ssr-01.ssrsub.one	8891	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
+码	195.133.5.77	7159	lncn.org w3f	rc4	origin	plain
 码	173.0.55.66	12345	dongtaiwang.com 123abc	rc4-md5	origin	plain
+码	ssr-04.ssrsub.one	167	t.me/SSRSUB	aes-256-cfb	origin	plain
