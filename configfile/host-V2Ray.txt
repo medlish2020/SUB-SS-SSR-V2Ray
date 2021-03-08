@@ -1,113 +1,96 @@
 码	122.190.3.24	443	da136559-eb65-3a74-b747-5866439e8c46	ws	/panel	tls
-码	104.16.182.15	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	104.21.76.229	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	120.232.96.45	20008	03349423-6f1b-3e98-9d48-3eb8d3b082b0	ws	/	
-码	172.67.223.77	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	211.43.15.86	153	6da5e16c-b408-37b8-83a7-c400cc9be7e0	ws	/api/v3/download.getFile	undefined
 码	112.25.91.31	80	98b5e76a-8b36-3089-b3da-33fbc1337186	ws	/v2ray/233yun.xyz	undefined
 码	101.32.191.54	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
 码	122.190.3.22	80	a4238f2e-dc04-33f7-968e-ea2d4c95bef3	ws	/v2ray	undefined
 码	transite-shcu02.iplc188.com	10002	aeca4a28-61b6-42e7-8efd-a3c58d6dd72f	tcp		
-码	119.147.134.192	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
 码	13.248.164.180	443	37932e47-dc63-4ac2-9848-5c5c63827fd6	ws		
+码	119.147.134.192	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
 码	v2us02.isxa.top	443	6fa4590b-c6b9-4cab-864b-379e162555c0	ws	/ray	tls
 码	149.129.62.192	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	rntwo.laoban666.xyz	443	114f5786-a8a0-446a-a32f-446893480560	ws	/27353486f3a1d4f/	tls
-码	149.129.55.48	443	eb9d626c-2d6f-384e-ad8d-20dc02f6ecea	ws	/panel	tls
 码	149.129.42.177	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	149.129.55.48	443	eb9d626c-2d6f-384e-ad8d-20dc02f6ecea	ws	/panel	tls
 码	149.129.54.114	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
 码	149.129.42.15	443	f6769679-3960-33d4-a91e-35a04bc190de	ws	/panel	tls
-码	sg1322.azzico.space	11558	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
-码	99.83.198.53	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
 码	121.12.76.76	10029	ccc3982e-d00d-37ee-ab30-c957c6b3db4e	ws	/v2ray	
-码	91.245.227.135	38166	9551d4fd-610e-4bf3-9f93-1df5452c3654	ws	/	
+码	99.83.198.53	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
 码	104.16.149.48	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
-码	104.16.160.122	443	ad806487-2d26-4636-98b6-ab85cc8521f7	ws	/	tls
+码	91.245.227.135	38166	9551d4fd-610e-4bf3-9f93-1df5452c3654	ws	/	
 码	13.248.130.129	80	78e34624-1e2a-3d09-b3fd-d3a15d59b2dd	ws	/tudog	undefined
 码	104.18.8.157	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	211.95.53.39	443	b8a66664-6d13-39d9-bd43-e3948e6b3979	ws	/mugua	tls
 码	113.207.102.23	80	82cf83ad-6854-3aa5-8cda-441af940a73f	ws	/v2ray	undefined
 码	104.25.175.69	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	76.223.1.37	80	78e34624-1e2a-3d09-b3fd-d3a15d59b2dd	ws	/tudog	undefined
-码	104.19.6.151	443	ea050e57-3e6e-4939-a79a-3eda830c6024	ws	/	tls
 码	47.112.23.90	153	6df93022-abb8-3407-a05b-275e0576bc59	ws	/api/v3/download.getFile	undefined
 码	1.0.0.1	443	8c35bef3-d51f-41ab-ac87-7b053410495b	ws	/	tls
 码	54.180.102.230	80	6425cbeb-05b5-4761-ff62-837962c40d57	ws	/dwn	
 码	104.22.3.3	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	149.129.49.211	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	gzcm.servers-3y.xyz	33010	4579ebd8-57d3-3028-8ac6-d6306d746f1b	ws	/3rain	
+码	172.67.37.166	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
 码	104.22.44.50	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
-码	ru05.tsutsu.cc	443	2c8b12ad-d487-40e3-9d9d-35d29c970a31	ws	/tsutsu	tls
 码	103.222.190.216	10014	aeca4a28-61b6-42e7-8efd-a3c58d6dd72f	tcp	/	
 码	104.21.239.147	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
-码	transite-shcu02.iplc188.com	10004	aeca4a28-61b6-42e7-8efd-a3c58d6dd72f	tcp		
-码	www.kernels.bid	443	2499ce21-4fef-f521-ad55-fe8741ce416e	ws	undefined	tls
+码	v2-09.ssrsub.one	443	23e2718a-1ced-41d2-ad90-e140670b2047	ws	/a10d5722	tls
+码	www.kernels.bid	443	9d3ea5f9-b996-1d00-0e58-bdd6fc0440c8	ws	undefined	tls
 码	104.16.110.238	443	c58dacde-671b-4d71-9925-a4dc76b803a5	ws	/The-Great-Awakening_vws	tls
 码	75.2.34.208	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
-码	www.cloudflare.com	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
-码	14.17.97.134	153	c5f8f168-0dda-3ca6-89a0-d15d8f1b1644	ws	/api/v3/download.getFile	undefined
-码	223.94.40.242	43960	9c97bd11-d4e8-31d7-b2c1-a06fe6898074	ws	/j20-sp1	
+码	www.cloudflare.com	443	55139eb8-f598-4cdd-90e5-def733e8f999	ws	/ray	tls
 码	139.226.163.144	10001	2e6fe034-aeaf-4b7d-9c28-7d5465f58837	tcp		
+码	223.94.40.242	43960	9c97bd11-d4e8-31d7-b2c1-a06fe6898074	ws	/j20-sp1	
+码	14.17.97.134	153	c5f8f168-0dda-3ca6-89a0-d15d8f1b1644	ws	/api/v3/download.getFile	undefined
 码	121.201.1.191	443	787792ea-7979-359b-bb69-07bc8dffdccf	ws	/v2ray	tls
-码	hk2198.azzico.space	11577	8bdd2925-7218-314b-987a-dcbb44d09852	ws	/video	
 码	149.129.59.174	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	v2.linn.ink	22100	ce272424-fe15-42cd-8903-355dd33b0451	tcp		
 码	149.129.118.218	443	789e0acf-4fef-386d-8a54-ee60e46c5420	ws	/racernet	tls
-码	www.digitalocean.com	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
-码	www.garmin.com	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	149.129.57.30	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	104.16.148.48	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
+码	172.67.37.175	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
 码	149.129.50.254	443	eb9d626c-2d6f-384e-ad8d-20dc02f6ecea	ws	/panel	tls
-码	47.91.30.158	443	d9ac9fef-6fb3-39fe-a2f2-9b682c60aca3	ws	/acgku	tls
 码	76.223.1.37	443	5453d090-7493-3791-8fc4-c941d397040d	ws	/mugua	undefined
 码	1.0.0.10	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
 码	120.232.96.45	20007	03349423-6f1b-3e98-9d48-3eb8d3b082b0	ws	/	
-码	hk2197.azzico.space	11576	15a76c75-da8a-3de2-bdc2-3bbd389d7ee1	ws	/video	
 码	107.175.44.154	443	114f5786-a8a0-446a-a32f-446893480560	ws	/27353486f3a1d4f/	tls
-码	104.25.104.240	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
+码	v2-07.ssrsub.one	443	4a9ce6c4-ded1-49c8-bc0f-42bcf13340fa	ws	/efbb43f2	tls
 码	149.129.37.174	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	211.43.15.85	153	daf261c8-0a9a-3fe2-8229-f96644a93745	ws	/api/v3/download.getFile	undefined
 码	120.232.96.45	20010	03349423-6f1b-3e98-9d48-3eb8d3b082b0	ws	/	
+码	211.43.15.85	153	daf261c8-0a9a-3fe2-8229-f96644a93745	ws	/api/v3/download.getFile	undefined
 码	104.31.94.236	443	8c35bef3-d51f-41ab-ac87-7b053410495b	ws	/	tls
 码	170.106.105.141	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
 码	104.19.83.191	443	fe2ede58-2639-4586-84aa-242aa4d1211c	ws	/	tls
-码	149.129.53.147	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
 码	170.106.105.195	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
+码	149.129.53.147	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
 码	61.164.109.185	20010	d3b25e35-4fd4-46ae-bc90-dbfdf65fb439	ws	/	undefined
 码	120.89.61.199	153	5dfb5433-b78b-344e-a6bc-e84f8e12f15a	ws	/api/v3/download.getFile	undefined
 码	76.223.12.20	443	37932e47-dc63-4ac2-9848-5c5c63827fd6	ws	/	
-码	104.22.4.180	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	104.16.160.114	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
-码	104.16.181.15	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
+码	v2-08.ssrsub.one	443	684cd3f2-44dd-43fc-804a-1b655e710ef2	ws	/2239b4ce	tls
 码	75.2.116.18	80	bd3614e0-1bf0-4d83-a3b0-2b4aadddf656	ws	/	undefined
-码	free.yangxifang.tk	443	5a2de888-4686-4b11-af2c-d98a5115188e	ws	/	tls
 码	125.46.39.227	10089	9181099b-ce67-341a-bec4-9b16ed1a54df	tcp	/	undefined
+码	v2-10.ssrsub.one	443	89f4c443-e72d-4004-b30e-84dbe53214ea	ws	/f9312862	tls
 码	149.129.44.97	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
 码	www.kernels.bid	80	8164de17-5379-6323-3a5c-fc3ef25fcf67	ws	undefined	none
 码	149.129.57.224	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	104.19.45.117	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	170.106.105.222	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
+码	152.67.196.87	33288	4dedb528-94ce-4223-97b1-a761517fe47e	tcp		
 码	v2us03.isxa.top	443	26cd7d27-71c8-4047-892f-3c44c5fb4759	ws	/ray	tls
-码	icook.tw	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	47.112.178.187	153	330330e6-03d1-34a9-9c74-80e5748bed87	ws	/api/v3/download.getFile	undefined
 码	183.239.70.171	443	39493d0a-902e-3d53-b9a2-c1efd1ff5358	ws	/pucloud	tls
 码	v2us01.isxa.top	443	80c9b51a-feaf-4fe6-b43d-e8879c8f3d66	ws	/ray	tls
 码	183.232.228.110	43960	9c97bd11-d4e8-31d7-b2c1-a06fe6898074	ws	/j20-sp1	
 码	104.19.23.24	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	149.129.38.194	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	104.20.130.43	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	104.20.130.175	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
-码	104.17.188.91	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
+码	104.20.130.43	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	101.32.189.139	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	a3038a16ae0fee245.awsglobalaccelerator.com	8080	dd8e4c7f-3650-4922-9cc2-b9b9e5f87641	ws	/WebSocket	
+码	a3038a16ae0fee245.awsglobalaccelerator.com	8080	1495c3a4-b585-40b1-a380-a6bc07b1d26e	ws	/WebSocket	
 码	149.129.44.166	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	99.83.233.166	443	37932e47-dc63-4ac2-9848-5c5c63827fd6	ws	/	
 码	149.129.37.205	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	75.2.63.63	443	37932e47-dc63-4ac2-9848-5c5c63827fd6	ws	/	
-码	www.hkmci.com	443	55139eb8-f598-4cdd-90e5-def733e8f999	ws	/ray	tls
+码	99.83.233.166	443	37932e47-dc63-4ac2-9848-5c5c63827fd6	ws	/	
 码	99.83.186.46	8080	ff28e4e2-70b6-4fd7-8100-d7f7c941afa6	ws	/	undefined
 码	172.67.209.58	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
 码	149.129.37.67	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
 码	104.16.0.0	443	ad806487-2d26-4636-98b6-ab85cc8521f7	ws	/	tls
-码	transite-shcu02.iplc188.com	10001	2e6fe034-aeaf-4b7d-9c28-7d5465f58837	tcp		
 码	www.fitbit.com	443	55139eb8-f598-4cdd-90e5-def733e8f999	ws	/ray	tls
-码	104.18.135.208	443	2979ce99-e676-4cfc-aee0-0c1285aeb8d9	ws	/The-Great-Awakening_vws	tls
+码	transite-shcu02.iplc188.com	10001	2e6fe034-aeaf-4b7d-9c28-7d5465f58837	tcp
