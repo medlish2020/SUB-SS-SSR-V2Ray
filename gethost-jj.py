@@ -23,10 +23,10 @@ def ToFile(txt, file):
         fout.close()
 
 #SS SSR
-url='https://jj-rss-01.best/link/hdgQoZAinkcQIqeD?sub=1'
+url='https://j.srl/link/ZmxA2IO0ws3v80Gt?sub=1'
 
 #V2ray
-#url='https://jj-rss-01.best/link/hdgQoZAinkcQIqeD?sub=3'
+#url='https://j.srl/link/ZmxA2IO0ws3v80Gt?sub=3'
 
 links_file=configfilepath+'url_jj.txt'
 base64_file=configfilepath+'base64_jj.txt'
@@ -51,7 +51,7 @@ else:
     print('\n几鸡订阅地址不可用或尝试关闭代理后更新！\n')
     
 #V2ray
-url='https://jj-rss-01.best/link/hdgQoZAinkcQIqeD?sub=3'
+url='https://j.srl/link/ZmxA2IO0ws3v80Gt?sub=3'
 
 r = requests.get(url, allow_redirects=True)  # to get content after redirection
 #print(chardet.detect(r.content))
