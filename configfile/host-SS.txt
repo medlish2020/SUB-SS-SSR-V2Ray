@@ -1,14 +1,18 @@
 码	89.187.163.215	33992	8n6pwAcrrv2pj6tFY2p3TbQ6	aes-256-gcm
 码	ss.us.sshmax.net	57478	syCiJl3nb8OD	chacha20-ietf-poly1305
 码	45.79.111.214	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb
-码	ss.uk.sshmax.net	57478	HgVDIN05O6bH	chacha20-ietf-poly1305
 码	138.199.9.202	31944	aYNeKDMzYQYw4KbUbJA8Wszq	aes-256-gcm
 码	173.0.55.67	37801	dongtaiwang.com 123abc	rc4
+码	46.29.160.19	6887	lncn.org t5	rc4	origin	plain
+码	46.17.43.229	6887	lncn.org t3	rc4	origin	plain
 码	117.28.243.187	8333	passfw2xs4e!	rc4-md5	origin	plain
 码	89.163.224.142	25016	dongtaiwang.com 123abc	rc4	origin	plain
 码	ssr-07.ssrsub.one	8897	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
 码	45.79.66.9	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	ssr-09.ssrsub.one	8897	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
+码	46.29.167.136	6887	lncn.org t5	rc4	origin	plain
+码	46.29.165.12	6887	lncn.org t5	rc4	origin	plain
 码	45.56.94.40	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	45.33.88.190	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	173.0.55.67	37801	dongtaiwang.com 123abc	rc4	origin	plain
+码	185.22.154.44	6887	lncn.org t3	rc4	origin	plain
