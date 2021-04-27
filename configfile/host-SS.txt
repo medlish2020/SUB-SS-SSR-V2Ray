@@ -1,8 +1,6 @@
-码	ss.sg.sshmax.net	8139	qyzhBfoKRzXl	chacha20-ietf-poly1305
 码	183.236.57.24	17194	Gt29TROd1mpX	aes-256-gcm
 码	183.236.57.24	15833	eGpIWDdcCemZ	aes-256-gcm
 码	ss.ru.sshmax.net	1443	KACUGSkPS3FG	chacha20-ietf-poly1305
-码	89.163.224.142	40121	dongtaiwang.com 123abc	rc4
 码	ss.us.sshmax.net	57478	syCiJl3nb8OD	chacha20-ietf-poly1305
 码	ss.uk.sshmax.net	57478	HgVDIN05O6bH	chacha20-ietf-poly1305
 码	183.236.57.24	13252	cPQHo2tyFK29	aes-256-gcm
@@ -10,7 +8,6 @@
 码	183.236.57.24	14041	1kmD44i6Vq3r	aes-256-gcm
 码	ss.sg.sshmax.net	57478	o4qygNrXw7cE	chacha20-ietf-poly1305
 码	45.79.111.214	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb
-码	207.244.67.149	35294	J9Y2ncrdPEC38gwydNFFGBna	aes-256-gcm
 码	ss.de.sshmax.net	21474	cWv8FcJk0VpS	chacha20-ietf-poly1305
 码	ss.au.sshmax.net	1443	kRAxb8hPUxS0	chacha20-ietf-poly1305
 码	ss.ca.sshmax.net	1443	r4TeEt5bK0UD	chacha20-ietf-poly1305
@@ -22,25 +19,33 @@
 码	ss.sg.sshmax.net	1443	grtvkkHAinCf	chacha20-ietf-poly1305
 码	ss.fr.sshmax.net	1443	6nhHHuGHw2D5	chacha20-ietf-poly1305
 码	107.181.166.55	33992	8n6pwAcrrv2pj6tFY2p3TbQ6	aes-256-gcm
-码	ssr-05.ssrsub.one	8897	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
-码	192.240.99.182	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	176.32.32.30	12116	lncn.org t5	rc4	origin	plain
 码	ssr-jp1.free3333.xyz	443	tuidang.org	none	auth_chain_a	tls1.2_ticket_auth
+码	192.240.99.182	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	45.147.201.26	12116	lncn.org w6	rc4	origin	plain
+码	46.29.164.91	12116	lncn.org t5	rc4	origin	plain
 码	ssr-11.ssrsub.one	57478	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
-码	ssr-06.ssrsub.one	8897	t.me/SSRSUB	aes-256-cfb	origin	plain
+码	46.29.164.113	12116	lncn.org t5	rc4	origin	plain
 码	89.163.224.142	40121	dongtaiwang.com 123abc	rc4	origin	plain
 码	173.0.55.67	13011	dongtaiwang.com 123abc	rc4	origin	plain
-码	ssr-09.ssrsub.one	57478	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
+码	185.22.153.65	12116	lncn.org w6	rc4	origin	plain
 码	45.88.179.35	21675	darrenliuwei.com	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
+码	85.117.235.31	12116	lncn.org w6	rc4	origin	plain
 码	45.33.88.190	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
+码	91.188.223.113	12116	lncn.org e9	rc4	origin	plain
 码	ssr-14.ssrsub.one	8897	t.me/SSRSUB	aes-256-cfb	origin	plain
+码	194.147.33.234	12116	lncn.org e9	rc4	origin	plain
 码	ssr-12.ssrsub.one	8897	t.me/SSRSUB	aes-256-cfb	origin	plain
-码	ssr-05.ssrsub.one	57478	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
+码	45.129.3.242	12116	lncn.org w6	rc4	origin	plain
 码	15.164.211.193	13254	darrenliuwei.com	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
 码	117.28.243.187	8333	passfw2xs4e!	rc4-md5	origin	plain
 码	la3.free3333.xyz	443	dongtaiwang.com	none	auth_chain_a	tls1.2_ticket_auth
-码	ssr-10.ssrsub.one	8897	t.me/SSRSUB	aes-256-cfb	origin	plain
+码	46.29.164.85	12116	lncn.org t5	rc4	origin	plain
+码	ssr11.free3333.xyz	443	dongtaiwang.com	none	auth_chain_a	tls1.2_ticket_auth
 码	45.79.66.9	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
-码	ssr-06.ssrsub.one	57478	t.me/SSRSUB	aes-256-cfb	origin	plain
+码	ssr-13.ssrsub.one	57478	https://suo.yt/ssrsub	aes-256-cfb	origin	plain
+码	45.89.228.61	12116	lncn.org e9	rc4	origin	plain
+码	46.29.165.133	12116	lncn.org e9	rc4	origin	plain
 码	45.56.94.40	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	p3.22332e.com	8333	passfw2xs4e!	rc4-md5	origin	plain
 码	45.79.79.37	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
