@@ -1,105 +1,113 @@
-码	23.224.31.202	443	28a84b69-e118-47a0-9869-f397bcc9fbbd	ws	/path/160317342506	tls
 码	198.41.214.72	443	1826dedd-56c3-3c33-8884-b40639e994ae	ws	/panel	tls
 码	1.0.0.120	80	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	
 码	104.16.207.196	443	a9cd126a-7c05-41af-ad0e-a185eabc89c8	ws	/The-Great-Awakening_vws	tls
 码	122.190.3.24	443	da136559-eb65-3a74-b747-5866439e8c46	ws	/panel	tls
+码	cn1.relay.iplc.pro	52004	c98fa9b0-2bb4-483d-ab65-94a8f7a1b988	tcp		
 码	104.21.76.229	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
-码	172.67.223.77	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
-码	52kr2.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
+码	5.183.102.142	14420	9984501d-e80a-4144-c6bd-2503fb49872d	tcp		
 码	211.43.15.86	153	6da5e16c-b408-37b8-83a7-c400cc9be7e0	ws	/api/v3/download.getFile	undefined
-码	3.101.29.124	36038	144ab3e8-dbcc-425d-a120-5905e60ab7b8	tcp	/	
 码	104.19.23.23	443	d6c45c94-1ca7-4e47-925c-ffa26c8083c1	ws	/databasevws	tls
-码	52hk6.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
 码	107.150.5.206	34462	31aaf7bc-a4be-4577-a82c-2ab2afbf4a7b	tcp	/	
 码	112.25.91.31	80	98b5e76a-8b36-3089-b3da-33fbc1337186	ws	/v2ray/233yun.xyz	undefined
-码	shcn2-04.iplc188.com	10001	4346ac21-594c-415f-84cb-40307b7b32fa	tcp		
-码	13.56.181.146	16214	20724a74-ccfc-44bd-9d29-322c220dae1b	tcp	/	
+码	54.151.240.28	30494	04fb5b11-541f-49eb-9100-c2140203812e	tcp		
 码	122.190.3.22	80	a4238f2e-dc04-33f7-968e-ea2d4c95bef3	ws	/v2ray	undefined
-码	sg-ali-node1.wdnmd.pw	50005	f3d9ebbc-4152-347b-8959-e185623aa069	ws	/v2ray	
+码	13.245.16.126	20404	559636c7-b5a2-450c-9b5e-0dc8fc14f4f5	tcp		
 码	119.147.134.192	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	v2us02.isxa.top	443	87af3282-c2a4-4710-a153-587a22a63650	ws	/ray	tls
+码	v2us02.isxa.top	443	5bcd6c3d-2e34-4219-942b-5a34d9cc91c6	ws	/ray	tls
+码	103.122.119.124	52000	c98fa9b0-2bb4-483d-ab65-94a8f7a1b988	tcp		
+码	52.184.14.94	36972	74261e94-88b0-4c1c-b956-892bbc1ca726	tcp		
+码	40.83.122.237	10004	8e182989-ae54-457e-8438-b17637b2ca26	ws	/index	tls
 码	223.166.165.243	10003	edac1621-785c-4683-b859-882307be31b2	tcp		
 码	23.224.164.100	443	d25a6583-52ca-496f-87ae-f2275b3b0ddd	ws	/path/160317342506	tls
-码	klgzcm.3sx.xyz	20022	4093eb1c-4bb3-408b-bda8-58b4ebbf40b6	ws	/index	
-码	52kr1.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
-码	51sg.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
-码	klgzcm.3sx.xyz	21362	4093eb1c-4bb3-408b-bda8-58b4ebbf40b6	ws	/index	
+码	52.79.228.10	32546	25b4eb9e-647c-4440-98b3-d21958e24577	tcp		
+码	45.88.179.35	35497	085e6815-e476-411a-a9a6-4e5306a1b875	tcp		
 码	223.166.165.243	10005	4346ac21-594c-415f-84cb-40307b7b32fa	tcp		
-码	51kr3.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
+码	in1-relay.kejibearnode.cf	10015	3647ebdb-fa25-385f-a78b-f137811e586f	ws	/video	
+码	15.185.46.228	34159	1bc13688-ec25-4b37-d707-1ebbdc358bbc	tcp		
+码	bigsur.cf	443	54d48b3e-89f5-11eb-a57d-560003426bdc	ws	/wyCnX5Dc/	tls
 码	211.95.53.39	443	b8a66664-6d13-39d9-bd43-e3948e6b3979	ws	/mugua	tls
 码	113.207.102.23	80	82cf83ad-6854-3aa5-8cda-441af940a73f	ws	/v2ray	undefined
+码	cn2.relay.iplc.pro	52007	c98fa9b0-2bb4-483d-ab65-94a8f7a1b988	tcp		
 码	141.101.120.0	443	4ccd4c69-f1de-4eef-b7ff-89548e3e1232	ws	/	tls
 码	104.21.3.201	443	4ccd4c69-f1de-4eef-b7ff-89548e3e1232	ws	/	tls
 码	104.21.48.161	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	162.159.210.102	443	65f11be5-ac71-4f0c-874b-d93c610c66ef	ws	/	tls
+码	103.222.190.138	10011	23bed695-ce44-4534-ad0f-b06d5ad4304b	tcp		
+码	auto.freev2.top	39995	5bd0b190-cb11-4204-aab0-79ad56fd150f	tcp	undefined	
+码	116.192.166.129	10005	23bed695-ce44-4534-ad0f-b06d5ad4304b	tcp		
 码	23.225.165.242	443	34f8dd2e-55f0-4d95-bfda-714f50b6c0e1	ws	/path/160317342506	tls
-码	hk-azure-node6.wdnmd.pw	50003	f3d9ebbc-4152-347b-8959-e185623aa069	ws	/v2ray	
 码	1.0.0.1	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
+码	40.83.122.237	10003	75040d87-ef5f-43d0-a44e-758a27dbe740	ws	/index	tls
 码	104.22.3.3	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
 码	149.129.49.211	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	51us2.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
 码	104.22.44.50	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
-码	104.21.239.147	443	a9cd126a-7c05-41af-ad0e-a185eabc89c8	ws	/The-Great-Awakening_vws	tls
+码	52.255.146.242	28380	a232e331-bff8-48d4-f9a6-2436cf41aa26	tcp		
+码	kr1.direct.iplc.pro	52000	c98fa9b0-2bb4-483d-ab65-94a8f7a1b988	tcp		
+码	40.83.122.237	10088	8e182989-ae54-457e-8438-b17637b2ca26	ws	/index	tls
 码	173.82.240.245	443	219be2f9-573d-4507-9e9b-74b385ba1c9c	ws	/0574a110e138dd/	tls
 码	cc.hciahciphcie.club	443	9a297bb1-06e3-4e6f-97fa-3d3202d46596	ws	/84c3f/	tls
-码	52hk8.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
-码	www.kernels.bid	443	9ba4b88f-484f-e312-be66-29fa254fe916	ws	undefined	tls
+码	www.kernels.bid	443	0cfde5a8-8544-b66b-4bb4-447e99e5bde9	ws	undefined	tls
+码	cn2.relay.iplc.pro	52009	c98fa9b0-2bb4-483d-ab65-94a8f7a1b988	tcp		
 码	104.16.110.238	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
-码	45.88.179.35	42365	085e6815-e476-411a-a9a6-4e5306a1b875	tcp		
 码	141.101.115.18	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
 码	1.0.0.0	443	9e6ceeff-2546-3690-ac00-6fcdf31dec94	ws	/y284	tls
 码	149.129.59.174	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
 码	172.67.64.0	443	69cb9f3d-6e5d-4add-9806-b20917ea683d	ws	/	tls
+码	15.185.149.71	14474	fd0239b1-9d67-4867-fb7e-e14946b120af	tcp		
+码	jp1.direct.iplc.pro	52000	c98fa9b0-2bb4-483d-ab65-94a8f7a1b988	tcp		
+码	13.245.13.47	45623	a443853f-ce89-4b7c-e6f5-a5ad018085bf	tcp		
 码	149.129.57.30	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
 码	104.18.6.138	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
 码	149.129.50.254	443	eb9d626c-2d6f-384e-ad8d-20dc02f6ecea	ws	/panel	tls
+码	free-russian01-cdn.xiaohouzi.club	80	3d31728e-064d-42b8-b945-f79c008f73fc	ws	/	
 码	104.18.7.138	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
-码	klgzcm.3sx.xyz	21360	4093eb1c-4bb3-408b-bda8-58b4ebbf40b6	ws	/index	
-码	gzyd-zz.tsutsu.top	56224	b3a32dba-55b5-405d-b173-28d1d4b539c1	ws	/	
-码	hk521.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
+码	jp2.direct.iplc.pro	52000	c98fa9b0-2bb4-483d-ab65-94a8f7a1b988	tcp		
+码	5.183.103.196	57801	337ae850-ba0b-4647-e9b7-a222dc09b0dc	tcp		
+码	95.214.55.120	13256	828aacdf-8c06-4bd9-d501-8f4eb506734c	tcp		
 码	104.19.97.113	443	1826dedd-56c3-3c33-8884-b40639e994ae	ws	/panel	tls
 码	104.21.19.155	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
+码	103.222.190.138	10012	23bed695-ce44-4534-ad0f-b06d5ad4304b	tcp		
+码	95.214.55.118	41505	ab2a10e8-50a1-4d20-e973-b211ea6457f4	tcp		
 码	149.129.37.174	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	52hk3.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
 码	170.106.105.141	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
 码	c-us3.ooxc.cc	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
-码	klgzcm.3sx.xyz	20059	4093eb1c-4bb3-408b-bda8-58b4ebbf40b6	ws	/index	
 码	149.129.53.147	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
 码	170.106.105.195	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
-码	shcn2-04.iplc188.com	10002	4346ac21-594c-415f-84cb-40307b7b32fa	tcp		
-码	klgzcm.3sx.xyz	10005	4093eb1c-4bb3-408b-bda8-58b4ebbf40b6	ws	/index	
-码	52hk5.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
+码	18.181.119.239	42009	ded56274-0abf-411d-ad4a-13a2c660fc81	tcp		
+码	104.19.27.26	443	b47f1d5c-a228-4b24-809e-626852910b1a	ws	/xrayvws	tls
 码	120.89.61.199	153	5dfb5433-b78b-344e-a6bc-e84f8e12f15a	ws	/api/v3/download.getFile	undefined
-码	52sg2.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
-码	klgzcm.3sx.xyz	10003	4093eb1c-4bb3-408b-bda8-58b4ebbf40b6	ws	/index	
 码	104.16.160.114	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
-码	52jp2.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
+码	cdnde.irteyz.today	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
+码	hk3.xxl123.fun	80	403f7d6d-1e6d-40dc-911b-20970b0c961f	ws	/index	tls
 码	23.225.213.242	443	11c703a8-f3eb-4b3a-bc9b-2539c6ac6796	ws	/path/160317342506	tls
 码	104.16.181.15	443	1a54e756-d454-45a0-aefa-e9514e1da1f1	ws	/The-Great-Awakening_vws	tls
 码	23.224.31.210	443	4aa50ee1-1a3c-4ab5-8f4a-998f8ccedd06	ws	/path/270119141029	tls
-码	52.53.248.216	50299	9e82e46d-fcc7-4c8c-fbe5-66fb764b91d0	tcp	/	
+码	13.125.170.43	52091	ef9e00dd-2306-4060-c5fd-d32eabf939b4	tcp		
+码	ru1.direct.iplc.pro	52000	c98fa9b0-2bb4-483d-ab65-94a8f7a1b988	tcp		
 码	223.166.165.243	10002	4346ac21-594c-415f-84cb-40307b7b32fa	tcp		
 码	104.16.249.130	443	e6397eda-dd27-4832-a693-b3fb156ec0f3	ws	/233blog	tls
-码	52hk2.fans8.xyz	443	3ba63d91-429d-3f53-abff-21fb2871ce5c	ws	/ray	tls
+码	www.kernels.bid	80	b9c2cb89-2b16-4612-e91c-f8ac1775f9df	ws	undefined	none
+码	hk5.direct.iplc.pro	52000	c98fa9b0-2bb4-483d-ab65-94a8f7a1b988	tcp		
+码	cn2.relay.iplc.pro	52000	c98fa9b0-2bb4-483d-ab65-94a8f7a1b988	tcp		
 码	170.106.105.222	80	13d7c37e-922f-61ad-636a-9ae45f2a78d1	ws	/usmawjdp	undefined
 码	47.242.17.115	13723	a90597c1-bab3-4217-ad6f-0838675c8633	ws	/ray	tls
 码	172.67.154.85	443	3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2	ws	/	tls
 码	172.67.186.204	443	f299184b-19e0-41a4-9b4b-65fa8f0e691c	ws	/jj	tls
-码	v2us03.isxa.top	443	3f387ba1-ad3e-4853-9d94-ded597ad6e21	ws	/ray	tls
+码	v2us03.isxa.top	443	9cdf9883-592c-40b4-8a74-bddcc8f798ba	ws	/ray	tls
+码	5.183.101.200	35374	62836733-0014-4014-e0e3-908eea2f3063	tcp		
 码	104.16.147.69	80	d7a973da-44dc-3b92-9f16-ea3fd54a84ee	ws	/panel	
 码	183.239.70.171	443	39493d0a-902e-3d53-b9a2-c1efd1ff5358	ws	/pucloud	tls
-码	v2us01.isxa.top	443	89062b8a-4e64-436d-8c08-df45eceeb503	ws	/ray	tls
+码	v2us01.isxa.top	443	29b12c5e-aac3-48e4-b2ef-a682f29ef9eb	ws	/ray	tls
 码	149.129.38.194	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
+码	3.35.218.230	40499	97f6451f-2f12-4737-dc7e-313e6736c3bf	tcp		
 码	104.17.178.7	443	1826dedd-56c3-3c33-8884-b40639e994ae	ws	/panel	tls
 码	40.83.122.237	10001	403f7d6d-1e6d-40dc-911b-20970b0c961f	ws	/index	tls
 码	104.20.130.43	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
 码	104.20.130.175	443	db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda	ws	/jj	tls
 码	1.0.0.100	80	57e0cb4d-eae5-48ec-8091-149dc2b309e0	ws	/s/ff5c0fb.fm.apple.com:30513	
 码	104.17.188.91	443	8e82a9a5-b894-4b4d-bf2e-dbf0807572aa	ws	/ws	tls
-码	52.79.228.10	53691	25b4eb9e-647c-4440-98b3-d21958e24577	tcp		
+码	r3uuuus.liuwei.gq	443	69cb9f3d-6e5d-4add-9806-b20917ea683d	ws	/	tls
+码	zhongzhuangazhk2.xiaobaiyun.me	800	6d04dd65-c0b0-38b0-8d3a-be30a68cb55d	ws	/hls	
 码	45.12.110.8	45458	c169c268-7e51-4564-bcf5-271b8e49e141	tcp		
-码	shcn2-04.iplc188.com	10005	4346ac21-594c-415f-84cb-40307b7b32fa	tcp		
 码	149.129.37.205	443	ab701bdc-079a-3eed-89a6-895b3a18f8af	ws	/panel	tls
-码	43.226.26.113	31627	b4d92783-2348-46e6-cf7a-dd45e870a1d2	tcp	/	
-码	klgzcm.3sx.xyz	20066	4093eb1c-4bb3-408b-bda8-58b4ebbf40b6	ws	/index	
-码	18.181.119.239	32657	ded56274-0abf-411d-ad4a-13a2c660fc81	tcp
+码	54.169.214.226	55480	a62ce843-da83-4217-936a-c5e9074e5585	tcp		
+码	gmegme.ga	443	160ce2c0-89d2-11eb-aef3-560003425baf	ws	/zwWptVxh/	tls
